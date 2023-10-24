@@ -1,0 +1,29 @@
+baseURL = 'https://bigfa.github.io/hugo-theme-farallon/'
+languageCode = 'zh-cn'
+timezone = 'Asia/Shanghai'
+defaultContentLanguage = 'zh-cn'
+title = 'Hugo theme farallon'
+theme = 'farallon'
+[taxonomies]
+  category = 'categories'
+  tag = 'tags'
+  series = 'series'
+
+[outputs]
+  home = ['HTML', 'JSON', 'RSS']
+
+
+[Params]
+  search=false
+  description = 'A simple and fast blog framework written in Go.'
+  toc = true
+
+[menu]
+  [[menu.main]]
+  name="关于"
+  url="/about/"
+  weight="1"
+  [[menu.main]]
+  name="分类"
+  url="/categories/"
+  weight="2"
