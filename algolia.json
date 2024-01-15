@@ -1,5 +1,19 @@
 [
     {
+        "title": "关于",
+        "description": null,
+        "categories": [
+            "zine"
+        ],
+        "date": "2024-01-15T15:22:50.000Z",
+        "cover": null,
+        "hidden": false,
+        "comments": true,
+        "uri": "/zh-cn/story/about-v2",
+        "content": "2012 bigfa 博客",
+        "objectID": "/zh-cn/story/about-v2"
+    },
+    {
         "title": "深圳湾安达仕酒店",
         "description": null,
         "categories": [
