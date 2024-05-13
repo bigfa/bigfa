@@ -168,6 +168,23 @@
         "objectID": "/zh-cn/story/ho-chi-minh-city"
     },
     {
+        "title": "Hugo 使用 Cloudflare Worker 实现文章浏览计数与点赞",
+        "description": "Hugo 使用 Cloudflare Worker 实现文章浏览计数与点赞",
+        "categories": [
+            "zine"
+        ],
+        "tags": [
+            "mini"
+        ],
+        "date": "2024-05-13T07:31:20.000Z",
+        "cover": null,
+        "hidden": false,
+        "comments": true,
+        "uri": "/zh-cn/story/hugo-cf-worker",
+        "content": "d1 域名 hugo wrangler Cloudflare cf 数据库 博客 post execute ts class actionDomain 静态 绑定 部署 设置 主题 npm npx file sql schema 跨域 创建 即可 文章 手动 调用 文件 浏览量 cloudflare Github run https true Worker deploy github secret assets id database 授权 服务 修改 项目 网页 后台 功能 远程 前端 环境 地址 免费 数据表 适配 编辑 强烈建议 配置文件 会弹 farallonActions 如点 single Repository clone singleSelector D1 create Secrets text 4025 toml Settings template worker utils variables databaseid vars view Action UniqueId 有个 wordpress 1123 workflows wpista 点赞 domains yml DNS e23e8a DOMAIN 表则 DB 详情页 git 81 CLOUDFLAREAPITOKEN dev articleSelector views databases Google b26 Actions install bfd5af74 io viewSelector item key bigfa likeButtonSelctor acf8 MD local binding md5 btn Markdown nodejs databasename action 方案 普通用户 阵子 原汁原味 执行命令 博文 够用 密钥 文案 初始化 条目 自带 按钮 数据 付费 是否是 大同小异 计数 变现 命令行 生产 列表 发现 权限 两款 研究 解析 搭建 存储 无需 顺便 复制 额外 还好 开启 路径 全家 本文 转到 流量 目录 后续 展示 分开 访问 引入 外部 参数 依赖 命名 兴趣 没什么 登陆 评论 动态 额度 安装 自动 天然 平台 停止 启动 工具 新增 一步 估计 判断 成本 概念 统计 简单 执行 开发 解决 理论 支持 方法 原因 关系 过程 两个 情况",
+        "objectID": "/zh-cn/story/hugo-cf-worker"
+    },
+    {
         "title": "Hugo 主题 Farallon",
         "description": null,
         "categories": [
