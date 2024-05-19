@@ -63,6 +63,23 @@
         "objectID": "/zh-cn/story/chongqing"
     },
     {
+        "title": "Douban Cloudflare Worker",
+        "description": null,
+        "categories": [
+            "zine"
+        ],
+        "tags": [
+            "mini"
+        ],
+        "date": "2024-05-15T09:41:48.000Z",
+        "cover": null,
+        "hidden": false,
+        "comments": true,
+        "uri": "/zh-cn/story/douban-cf-worker",
+        "content": "https Worker douban subject 初始化 请求 单次 超限 图片 次数 同步 下载 book 36766055 mysql nodejs movie 免费版 36593622 Cloudflare R2 50 music 26434828 D1 一千次 豆瓣 影音 服务 读写 读取 试着 很慢 数最多 数据库 公共服务 定时 接口 分页 调用 占用 标记 太高 图书 就行了 短时间 迁移 隐蔽 流量 过多 后续 测试 输出 太大 电影 音乐 失败 最多 实在 成本 找到 公开 速度 操作 内容 压力 方法 几个 数据 提供 过程 地方 发现 研究",
+        "objectID": "/zh-cn/story/douban-cf-worker"
+    },
+    {
         "title": "Fox Umbrellas",
         "description": null,
         "categories": [
@@ -220,6 +237,23 @@
         "uri": "/zh-cn/story/hugo-theme-notability",
         "content": "https token title memo md 豆瓣 设置 站点 cat 2023 cover brand static Gear png fatesinger content Params 参数 简体中文 DefaultContentLanguage 06 subject zh story en FujiFilm mainSections cn faves description douban movie 35451890 gears 00 index 目录 即可 文件 点击 列表 类型 格式 地址 新建 文章 参数设置 直接插入 默认值 配置文件 主题 抽时间 配置 bfb9a8d037a7352c9d369b85d33ac83e39a 10 mini 04 movies 40 node meta mm Gears pc5qctiddj2uy6g computer secure showAuthor 0.3.0 post subtitle tlp9i57mnbamhapp 39 wpista draft date 05 false true 使用指南 128 20. Leica Get 11 内链 fmdvfzy5kwu320q Sofort bigfa 03 gear fd7e2e17a671f8e3fade0706e0a667e T15 gravatar fuji 2021 authorName 2022 X100V hugo authorAvatar id 微信 authorDescription instax 扫码 i18n integration 1. loser 拉取 markdown avatar 字段 换为 取掉 影音 文件夹 古法 条目 卡片 方法 演示 别名 试用 远古 复活 默认 链接 三方 字符串 字符 语音 简洁 数组 登录 多余 英文 版本 收藏 翻译 同步 物品 框架 代码 输入 一行 用途 依赖 创建 自行 单独 用户 生成 描述 更新 制作 记录 自动 相当于 数字 保存 维护 语言 最新 作者 状态 信息 选择 支持 项目 数据 特别 国内 时间",
         "objectID": "/zh-cn/story/hugo-theme-notability"
+    },
+    {
+        "title": "再游拙政园",
+        "description": null,
+        "categories": [
+            "zine"
+        ],
+        "tags": [
+            "mini"
+        ],
+        "date": "2024-05-19T03:47:50.000Z",
+        "cover": "https://static.fatesinger.com/2024/05/6wcuefk2nt6ufu5e.jpg",
+        "hidden": false,
+        "comments": true,
+        "uri": "/zh-cn/story/humble-administrators-garden",
+        "content": "再游 时隔多年 拙政园 心境 园林 兴趣 没什么",
+        "objectID": "/zh-cn/story/humble-administrators-garden"
     },
     {
         "title": "丽江金茂凯悦甄选",
