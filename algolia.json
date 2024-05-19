@@ -63,20 +63,18 @@
         "objectID": "/zh-cn/story/chongqing"
     },
     {
-        "title": "Douban Cloudflare Worker",
+        "title": "使用 Cloudflare Worker 获取豆瓣书影音记录",
         "description": null,
         "categories": [
-            "zine"
+            "hugo"
         ],
-        "tags": [
-            "mini"
-        ],
+        "tags": [],
         "date": "2024-05-15T09:41:48.000Z",
         "cover": null,
         "hidden": false,
         "comments": true,
         "uri": "/zh-cn/story/douban-cf-worker",
-        "content": "https Worker douban subject 初始化 请求 单次 超限 图片 次数 同步 下载 book 36766055 mysql nodejs movie 免费版 36593622 Cloudflare R2 50 music 26434828 D1 一千次 豆瓣 影音 服务 读写 读取 试着 很慢 数最多 数据库 公共服务 定时 接口 分页 调用 占用 标记 太高 图书 就行了 短时间 迁移 隐蔽 流量 过多 后续 测试 输出 太大 电影 音乐 失败 最多 实在 成本 找到 公开 速度 操作 内容 压力 方法 几个 数据 提供 过程 地方 发现 研究",
+        "content": "初始化 douban https 同步 条目 接口 调用 d1 Worker Cloudflare worker type wrangler id 豆瓣 绑定 域名 配置文件 请求 wpista music ID movie subject execute npx book 30 npm 自行 本地化 自动 设置 封面 数据类型 paged r2 crons database sql R2 54529369 TOKEN db dbapi run D1 richiscool token ts schema game file 单次 DOUBAN 免费版 TYPES binding drama 次数 影音 密钥 部署 超限 图片 五种 数据库 列表 后台 恶意 标记 验证 支持 方法 过多 单个 数据 下载 痛点 强烈建议 报错 文件 fb2 bucket mysql nodejs buckets 36766055 c3f4fe6b remote PAGESIZE config create cron section R2DOMAIN BUCKET toml triggers databases DB vars URL 主题目录 WOKRERDOMAIN deploy 26434828 WORKER 40 DBID 跨域 github assets html b264d3e3634 env 4513 init b7e9 50 install io DOMAIN layout bigfa list 36593622 local movies 模版 普通用户 每页 类型 一千次 页码 触发器 操作 服务 清空 好用 信息 读写 有人 读取 页面 实测 提供 试着 很慢 增加 数最多 无序 默认 公共服务 定时 时会 分页 具体情况 占用 两个 注释 时间 远程 前端 太高 图书 就行了 短时间 迁移 隐蔽 全家 流量 后续 展示 变量 查看 测试 参考 参数 依赖 输出 创建 太大 即可 修改 安装 分钟 电影 音乐 足够 规则 记录 两大 主动 失败 对外 等待 命令 最多 配置 实在 成本 找到 公开 速度 推荐 开发 功能 解决 数量 建议 第一 需求 内容 压力 几个 过程 显示 地方 发现 研究",
         "objectID": "/zh-cn/story/douban-cf-worker"
     },
     {
@@ -170,7 +168,7 @@
         "title": "胡志明市 City Walk",
         "description": null,
         "categories": [
-            "zine"
+            "travel"
         ],
         "tags": [
             "Vietnam"
@@ -188,11 +186,9 @@
         "title": "Hugo 使用 Cloudflare Worker 实现文章浏览计数与点赞",
         "description": "Hugo 使用 Cloudflare Worker 实现文章浏览计数与点赞",
         "categories": [
-            "zine"
+            "hugo"
         ],
-        "tags": [
-            "mini"
-        ],
+        "tags": [],
         "date": "2024-05-13T07:31:20.000Z",
         "cover": null,
         "hidden": false,
@@ -205,11 +201,9 @@
         "title": "Hugo 主题 Farallon",
         "description": null,
         "categories": [
-            "zine"
-        ],
-        "tags": [
             "hugo"
         ],
+        "tags": [],
         "date": "2023-10-30T13:07:22.000Z",
         "image": null,
         "hidden": false,
@@ -224,11 +218,9 @@
         "title": "Hugo 主题 Notability",
         "description": "Hugo 主题 Notability",
         "categories": [
-            "zine"
-        ],
-        "tags": [
             "hugo"
         ],
+        "tags": [],
         "date": "2023-10-30T14:27:17.000Z",
         "cover": "https://static.fatesinger.com/2023/09/czukqwphyybsxjhx.jpg",
         "hidden": false,
@@ -259,7 +251,7 @@
         "title": "丽江金茂凯悦甄选",
         "description": null,
         "categories": [
-            "zine"
+            "hotels"
         ],
         "tags": [
             "Lijiang"
@@ -331,7 +323,7 @@
         "title": "Singapore City Walk",
         "description": null,
         "categories": [
-            "zine"
+            "travel"
         ],
         "tags": [
             "Singapore"
