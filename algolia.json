@@ -1,1 +1,916 @@
-[]
+[
+    {
+        "date": "2024-02-02T05:25:36.000Z",
+        "title": "Posts",
+        "cascade": {
+            "params": {
+                "cover": "https://static.fatesinger.com/2024/01/p6krrw3jrw3hu7nd.jpeg"
+            }
+        },
+        "uri": "/zh-cn/post",
+        "content": "",
+        "objectID": "/zh-cn/post"
+    },
+    {
+        "title": "关于",
+        "description": null,
+        "categories": [
+            "zine"
+        ],
+        "date": "2024-01-15T15:22:50.000Z",
+        "cover": null,
+        "hidden": false,
+        "comments": true,
+        "uri": "/zh-cn/post/about-v2",
+        "content": "2012 bigfa 博客",
+        "objectID": "/zh-cn/post/about-v2"
+    },
+    {
+        "title": "深圳湾安达仕酒店",
+        "description": null,
+        "categories": [
+            "hotels"
+        ],
+        "tags": [
+            "Hyatt"
+        ],
+        "date": "2023-10-30T05:34:50.000Z",
+        "image": null,
+        "hidden": false,
+        "comments": true,
+        "story_id": 102548,
+        "cc": "BY-NC",
+        "uri": "/zh-cn/post/andaz-shenzhen-bay",
+        "content": "酒店 深圳湾 入住 安达 体验 工地 套房 泳池 角房 minibar 升级 很漂亮 拍照 正门 大堂 积分 兑换 环球 施工 免费 变焦镜头 蜜桔 大气 更衣室 楼体 旁边 摆件 住客 水疗 happy 高桌 60 xf23 公区 半湾景 hour 2400 24 泡池 坐拥 上券 想买个 城来 xf10 较贵 客给 佛系 本次 桑拿 设计 春笋 海景 服务 谈心 原因 万象 首轮 正对着 迷路 前台 一楼 价格 打车 受限 两万 客房 二代 电梯 打折 问候 餐饮 早餐 下次 餐厅 方形 时间 入口 直达 价位 顺便 时光 一点点 景观 高空 欢乐 值得一提的是 其他人 拍摄 隐蔽 难受 一组 几家 缺点 维修 强制 优点 造型 这家 不小 高端 日常 水果 路线 单独 满意 优秀 房间 适合 开放 营业 一层 算是 设置 提前 对外 不错 补充 总体 晚上 深圳 样子 喜欢 位置 大部分 传统 空间 需求 机会 结构 几个 特别 发现 情况",
+        "objectID": "/zh-cn/post/andaz-shenzhen-bay"
+    },
+    {
+        "title": "巴厘岛路上见闻",
+        "description": null,
+        "categories": [
+            "travel"
+        ],
+        "date": "2024-01-21T03:22:44.000Z",
+        "cover": "https://static.fatesinger.com/2024/01/0uemxm9v3y7flqit.jpg",
+        "hidden": false,
+        "comments": true,
+        "story_id": 102709,
+        "uri": "/zh-cn/post/bali",
+        "content": "旅行 拍照 打卡 巴厘岛 变化 变得 外出 节奏 很酷 路上 School 乐此不彼 Old 每一 我要 模版 机位 时代 慢下来 千篇一律 只能 格格不入 赛跑 使然 功利 很差 见闻 回想 太快 推着 元旦 没想 分享 容量 流量 照片 新鲜 长时间 想要 指定 事物 年纪 兴奋 算是 记录 流行 努力 交通 几天 显得 深圳 很快 大部分 阶段 接受 希望 长期 有人 事情 东西 特别 生活 地方",
+        "objectID": "/zh-cn/post/bali"
+    },
+    {
+        "title": "重庆 City Walk",
+        "description": "https://static.fatesinger.com/2024/04/l0dpxc3wzsbjpwmj.jpg",
+        "categories": [
+            "zine"
+        ],
+        "tags": [],
+        "date": "2024-04-24T07:37:30.000Z",
+        "cover": null,
+        "hidden": false,
+        "comments": true,
+        "uri": "/zh-cn/post/chongqing",
+        "content": "鹅岭 重庆 中转 观景台 李子 二厂 轻轨站 网红 公园 旅游局 一晚 地方 深圳 确实 文艺 选择 顺序 体验 没什么 不错 氧吧 贵宾楼 一割 热食 饭点 新晋 和丽晶 穿楼 逛一逛 胡志明市 携程 三四次 难得一见 直飞 玩意 那么回事 进藏 轻轨 城市 不出意外 过猛 外地人 搞错 上坡 下坡 不值钱 太贵 几个 逛逛 斯特 洲际 标注 普通话 机票 弥漫着 在我看来 景点 预约 好评 假装 航班 大大的 反向 步行 时间 拍拍 顺便 去过 居多 节省 交警 方言 氛围 舒适 行李 一路上 崩溃 功夫 广发 设法 台阶 国航 秩序 打电话 用力 打造 机场 路线 权益 下行 主流 送到 想法 挑战 第二天 天然 一路 提前 不行 上午 维护 早期 下午 飞机 两年 实在 感觉 真的 实际上 服务 一位 环境 原因 一种 经济",
+        "objectID": "/zh-cn/post/chongqing"
+    },
+    {
+        "title": "沈阳康莱德",
+        "description": null,
+        "categories": [
+            "hotels"
+        ],
+        "tags": [],
+        "date": "2024-07-25T07:35:36.000Z",
+        "cover": null,
+        "hidden": false,
+        "comments": true,
+        "uri": "/zh-cn/post/conrad-shenyang",
+        "content": "莱德 沈阳 酒店 浴缸 希尔顿 算是 故宫 入住 喜欢 中午 房间 灯光设计 不错 打卡 恒隆 Walk hour 堵输 抽拉 离店 酒廊 有大 君悦 钻卡 happy 没差 City 白梨 房型 真的 下午茶 开间 老妈 选择 换乘 旧居 算下来 计划 买票 中式 貌似 延误 气泡 权衡 午夜 邮件 之旅 客房 顺畅 抽屉 张学良 电梯 大堂 好评 预订 全无 床边 兴致 童年 装修 步行 楼下 高空 出行 厦门 舒适 一圈 舒服 大街 圆形 体验 辽宁 回忆 一杯 印象 广场 水果 不多 博物馆 沟通 升级 外围 青年 前来 之下 想着 行政 金属 品牌 飞机 几天 东北 本来 位置 一家 多年 执行 去年 整体 位于 集团",
+        "objectID": "/zh-cn/post/conrad-shenyang"
+    },
+    {
+        "title": "使用 Cloudflare Worker 获取豆瓣书影音记录",
+        "description": null,
+        "categories": [
+            "hugo"
+        ],
+        "tags": [],
+        "date": "2024-05-15T09:41:48.000Z",
+        "cover": null,
+        "hidden": false,
+        "comments": true,
+        "uri": "/zh-cn/post/douban-cf-worker",
+        "content": "初始化 douban 同步 条目 https 接口 调用 wrangler d1 Worker 配置文件 db 自动 部署 worker id type Cloudflare 数据库 豆瓣 绑定 标记 域名 设置 请求 music npx schema file wpista movie npm sql ts 30 execute D1 subject book ID 自行 类型 本地化 密钥 列表 封面 数据类型 secret github mark binding container database toml game paged r2 richiscool 单次 Github 54529369 drama STATUSES R2 DOUBAN crons scss run token deploy TYPES dbapi TOKEN 免费版 assets 次数 影音 下载 支持 修改 方法 超限 数据 图片 五种 定时 后台 恶意 状态 验证 地址 过多 单个 项目 后续 展示 测试 自动更新 即可 电影 痛点 编辑 强烈建议 报错 失败 env WOKRERDOMAIN 4513 WORKER html 单表 init 36766055 io DOMAIN api list local main b264d3e3634 图片下载 Douban b7e9 baseAPI Action mysql nodejs bigfa remote bucket 40 Actions install DBID buckets scripts 50 PAGESIZE c3f4fe6b clone status config template 36593622 CLOUDFLAREAPITOKEN modules triggers 跨域 R2DOMAIN create cron BUCKET vars workflows Repository yml variables databases 26434828 Secrets Settings 主题目录 DB fb2 URL 普通用户 每页 页码 一千次 触发器 操作 服务 清空 好用 信息 读写 封装 有人 读取 实测 提供 试着 很慢 增加 数最多 无序 默认 公共服务 比较稳定 权限 时会 分页 容器 手动 具体情况 占用 样式 两个 注释 时间 一阵子 远程 前端 太高 图书 就行了 短时间 迁移 简化 隐蔽 全家 流量 变量 查看 引用 参考 参数 分支 依赖 输出 创建 命名 太大 安装 分钟 更新 音乐 足够 规则 取消 记录 两大 记得 主动 对外 文件 等待 新增 命令 最多 配置 实在 成本 找到 公开 速度 推荐 开发 功能 解决 数量 建议 第一 需求 内容 压力 结构 几个 过程 显示 地方 发现 研究",
+        "objectID": "/zh-cn/post/douban-cf-worker"
+    },
+    {
+        "title": "Docker 自动同步豆瓣书影音记录",
+        "description": null,
+        "categories": [
+            "hugo"
+        ],
+        "tags": [],
+        "date": "2024-06-07T12:27:46.000Z",
+        "cover": null,
+        "hidden": false,
+        "comments": true,
+        "story_id": 103483,
+        "uri": "/zh-cn/post/douban-docker",
+        "content": "douban 条目 接口 mongo assets npm db docker api 调用 proxysetheader type container env mongodb networks 27017 install compose ts data network git 8000 pm2 shared volumes Docker id 文件 绑定 同步 scss dev paged run server Cloudflare ports MONGO remote local sync driver DBID fatesinger DOMAIN URI database http addr image 本地化 创建 自行 服务器 列表 定时 类型 封面 构建 单个 同学 参数 单独 安装 自动 示例 强烈建议 配置 js latest 图片下载 For listen 3000 localhost location bigfa Forwarded modules build API HOST cd node 127.0.0.1 clone null pass ID 4.4.29 curl IP proxyaddxforwardedfor Nignx BASE restart depends services silent start baseAPI dist static Persist status url version REMOTE watch worker environment wpista Real yml 54529369 github 主题目录 host 二级域名 Worker Host 80 html 30 https list base proxy Douban index app 阵子 页码 豆瓣 开发 影音 服务 介意 封装 初始化 方法 域名 镜像 无序 比较稳定 时会 容器 手动 具体情况 博客 半小时 静态 样式 两个 标记 一阵子 前端 添加 全家 目录 展示 下载 测试 参考 请求 即可 适合 足够 记录 主动 二级 失败 对外 网络 启动 寻找 运行 状态 信息 建议 支持 结构 提供 国内",
+        "objectID": "/zh-cn/post/douban-docker"
+    },
+    {
+        "title": "Fox Umbrellas",
+        "description": null,
+        "categories": [
+            "life-style"
+        ],
+        "date": "2021-10-31T04:00:56.000Z",
+        "image": null,
+        "hidden": false,
+        "comments": true,
+        "uri": "/zh-cn/post/fox-umbrellas",
+        "content": "umbrellas years Umbrellas 1868 finest 150 worlds Fox Ltd producing founded 一把 英式 雨伞 马六甲 两把 分享 喜欢",
+        "objectID": "/zh-cn/post/fox-umbrellas"
+    },
+    {
+        "title": "富士 ef60 闪光灯",
+        "description": null,
+        "categories": [
+            "gears"
+        ],
+        "tags": [
+            "fujifilm"
+        ],
+        "date": "2023-11-11T07:07:26.000Z",
+        "cover": "https://static.fatesinger.com/2024/01/p6krrw3jrw3hu7nd.jpeg",
+        "hidden": false,
+        "comments": true,
+        "uri": "/zh-cn/post/fujifilm-ef-60",
+        "content": "引闪器 mm 贴牌 200 ttl 可玩性 原厂 闪光灯 无线 模式 电池 焦头 产品 功能丰富 反光板 日清 打算 led 50 EF 24 学写 sd 闲鱼 引闪 LED sf W1 x100v 可拉出 跳灯 近摄 fp 补土 补光 一买 装进去 富士 焦距 收纳 双十 配上 成色 买个 小巧 配件 块钱 很重 触发 手动 到手 大大提高 做工 还算 搭配 太高 说实话 舒适 一款 缺点 周末 修复 优点 体积 功率 同步 后悔 后续 高速 很快 恢复 价格 发现",
+        "objectID": "/zh-cn/post/fujifilm-ef-60"
+    },
+    {
+        "title": "富士 X-S20 长期使用体验",
+        "description": null,
+        "categories": [
+            "gears"
+        ],
+        "tags": [],
+        "date": "2024-06-29T11:30:05.000Z",
+        "cover": null,
+        "hidden": false,
+        "comments": true,
+        "uri": "/zh-cn/post/fujifilm-xs20-long-term-review",
+        "content": "富士 s20 镜头 拍摄 机身 机器 相机 t5 f1 S20 像素 快门 通病 视频 阉割 不错 体积 一点 真的 功能 配件 搭配 xt5 相机包 s10 t50 xf18 滤镜 xs20 原厂 缺点 电池 握持 闪光灯 够用 收纳 人像 下放 成色 性价比 小巧 选购 两台 搭载 存储 情况 身上 脆弱 一台 长期 五代 体验 要说 过程 变焦镜头 厉害 出门 价格 太大 升级 对焦 蛮高 自动关机 适配 奥林巴斯 新机型 六万多 三剑客 稳定期 模式 强迫症 四千万 代机 12 23 xf 40 体验出 jpg 4000 xf56 快门速度 pos hdr ra v60 55 出掉 拍菜 前帘 review 卡槽 8799 有美肤 33 残幅 双持 耗空 防抖 sigma 漆面 ii 焦段 2600 asp raw city 19 颜值 18 walk 美肤 128 感差 uhs 成本 普通用户 索然无味 相比 六百万 提升 不挂 三脚架 推荐 磕碰 画幅 多张 一年 硬伤 很贵 接受 玩意 天气炎热 手柄 挨骂 收尾 新手 提过 模特 原价 重度 处理器 续航 自带 复古 成功率 买不到 一环 超强 闭眼 很差 满满 小看 全天候 多一点 曼谷 两千 机型 数码 几样 能用 劣势 启用 高昂 材质 三万 乐趣 砖头 过热 传感器 兼顾 开关 做工 还算 存放 手持 停产 购入 卖掉 瓶颈 跳水 致命 摄影 只用 器材 不适 两支 强行 重型 友好 较弱 出行 说实话 素质 体会 本文 下山 实用 新一代 一篇 尤为 物价 优点 快乐 在外 塑料 配备 照片 分开 预算 可靠 一笔 生产力 日常 参数 很小 合成 太太 物理 小心 想象 文章 提到 系列 算是 到达 记录 自动 天气 旅游 二级 反复 太阳 想着 专业 发挥 手机 有限 一半 平衡 最新 品牌 一张 最多 机械 投入 对象 放在 实在 核心 电子 一块 样子 确实 经验 接近 很快 降低 状态 也许 依然 综合 解决 空间 建议 第一 大幅 压力 很大 发布 回来 方法 上市 东西 特别 关系 发现 这是 影响 市场",
+        "objectID": "/zh-cn/post/fujifilm-xs20-long-term-review"
+    },
+    {
+        "title": "富士 X-S20 短期使用体验",
+        "description": null,
+        "categories": [
+            "gears"
+        ],
+        "tags": [
+            "mini"
+        ],
+        "series": [
+            "apple"
+        ],
+        "date": "2023-11-09T10:57:34.000Z",
+        "cover": "https://static.fatesinger.com/2024/01/uu0q8uox5yfatloc.jpeg",
+        "hidden": false,
+        "comments": true,
+        "uri": "/zh-cn/post/fujifilm-xs20-short-term-review",
+        "content": "对焦 Q2 我能 xs20 ISO 体积 富士 缺货 处理器 加价 不错 镜头 机身 三万块 变焦镜头 奥林巴斯 不行 美颜 自动检测 有防抖 超小 f1 xt5 lr 防抖 X100V 可换 xf18 非官代 Q3 拨片 4000 RAW AI 1600 购买 像素 新机 功能 跨年 水货 三万多 降噪 画幅 奸商 转盘 选择 自动挡 这俩 队友 旗舰店 下定 上手 一点 续航 风范 代理商 按键 差点儿 写过 离谱 全天候 能用 三分之二 五万 传感器 博客 降价 搭配 视频 惊喜 一台 切换 缺点 电池 优点 体验 塑料 全新 一代 较少 官方 眼看 仪式 重量 一颗 没什么 机器 可用 足够 设置 目光 转向 最新 对象 更是 确实 真的 简单 状态 目标 只能 消费 接受 发布 价格",
+        "objectID": "/zh-cn/post/fujifilm-xs20-short-term-review"
+    },
+    {
+        "title": "富士 X-T5 短期使用体验",
+        "description": "Fujifilm X-T5 短期使用体验",
+        "categories": [
+            "gears"
+        ],
+        "tags": [
+            "fujifilm"
+        ],
+        "date": "2024-03-19T08:06:19.000Z",
+        "cover": "https://static.fatesinger.com/2024/01/p6krrw3jrw3hu7nd.jpeg",
+        "hidden": false,
+        "comments": true,
+        "uri": "/zh-cn/post/fujifilm-xt5-short-term-review",
+        "content": "相机 富士 T5 镜头 对焦 旅行 摄影 屏幕 装备 喜欢 测光 摄影师 T2 感觉 机身 AF 拍摄 背包 重量 适合 佳能 按钮 实用 翻转 T4 滤镜 t5 相机包 意味着 系列 自动 闪光灯 选择 电池 太贵 分辨率 功能 升级 令人烦恼 设置 全方位 搭配 三向 线缆 USB xf33 xf18 mm 寻焦 双卡槽 颜值 56 切换 单点 设备 一款 光线 有趣 体积 有时候 略大 充电器 携带 倾斜 握把 解决 跟踪 检测 菜单 内置 原因 足够 胶片 一点 索尼 主题 拍照 充电 符合 小巧 喜好 那种 眼部 地方 随身 太重 快速 轻便 相比 做工 设计 抚摸 视频 曝光 这款 最终 改变 一台 图像 带上 识别 好看 尺寸 完美 时尚 容量 东西 可靠 变化 日常 不多 轻松 依赖 藤泽 遮光罩 哈苏 想要 减轻 取决于 特定 想象 发现 熟悉 自定义 人体工学 附送 性能 裁切 一名 手机 单反相机 一支 打开 大光 模式 千千万万个 景深 最多 风格 日子 四千万 太老 态度 放在 T3 xf14 扫街 单块 找它 中仅 博主 x100vi 60 10 我极 丢焦 28 xf56 xf90 引闪器 18 xt5 50 zf 出掉 时才 pro4 ef 128 固件 evf 点太远 f1 f8 ISO 的人 Peak 精焦 55 上犯 上用 离机 raw R5 s20 没多大 jpeg 变酷 Design 上时 Sigma uv 不太是 太厚了 露营车 尼康 对比度 确实 就此而言 担心 三折 意义 像素 磕碰 一部分 实际上 插座 没用过 包包 快门 防尘 改回 保护 光圈 松下 壁纸 不太会 画幅 内衬 明智之举 仅此而已 对劲 烦人 亚马逊 翻出来 旋钮 保护膜 稳定 感想 眼睛 湿气 呼出 圈定 写文章 备份 之音 戴眼镜 稳定器 天籁 熬过 因素 模特 不全是 噱头 简约 并非如此 续航 佼佼者 无谓 人眼 这台 安全感 插上 不对劲 太行 为先 越小 这行 挑剔 闭眼 圆润 提供 按键 最贵 填满 并不需要 防水 废话 手感 买个 矩阵 质感 生活 过重 性价比 打碎 翻倍 标志性 配件 拇指 负重 高质量 那支 发稿 旗舰 用过 试用 更少 高性能 二代 滑落 清单 英寸 中用 吃紧 问到 时至今日 能用 收起 荒谬 毫不犹豫 打包 颇具 接口 无用 放进 干得 这是 无聊 很难说 磨损 密封 较重 评测 指南 游荡 好消息 工作 开到 灰尘 对准 手持 昂贵 卖掉 间隙 高手 器材 换上 不适 面部 无需 果断 设定 情况 强行 瞬间 声称 毫无疑问 节省 购物 交叉口 某一 强有力 极限 两点 首选 细长 包裹 整天 外观 开启 四处 微调 减小 胸前 舒适 看不到 顶部 防护 大师 忽视 明亮 新一代 从来不 只会 喜爱 鸟类 舒服 阻碍 包装 感谢 很长 短暂 好多 无非 好事 电脑 在外 型号 惊讶 我会 过多 假设 暴露 无论如何 整整 足以 过分 照片 主义 越发 二次 尊重 印象 高端 经典 眼看 运作 在家 阻止 用途 话题 表情 测量 焦点 太太 用户 概率 合适 期待 一线 无论是 更新 机器 可用 看法 释放 更大 改进 几次 颜色 错误 保留 记录 包含 常用 更好 说完 改为 布局 意识 主体 一段 温度 事实 讨论 理由 停止 想着 专业 不错 后期 旁边 等待 理解 一步 最新 努力 高度 手里 唯一 回去 几天 手中 自由 实在 动物 质量 变得 支撑 购买 区域 作出 接近 第一次 运行 很快 保证 真的 大小 好像 推荐 持有 介绍 大部分 独立 综合 拥有 看着 来到 终于 办法 现象 目标 只能 空间 感到 理论 减少 接受 希望 长期 压力 较大 带来 计划 控制 调整 几个 基础 特别 提高 预期 产品 价格 表现 之间 发生 研究 两个 一种",
+        "objectID": "/zh-cn/post/fujifilm-xt5-short-term-review"
+    },
+    {
+        "title": "榕阁 Garden Pavilion",
+        "description": "榕阁 20 年和 21 年是上过黑珍珠的，绝大多数能上大众点评黑珍珠的餐厅都不会踩雷，如今榕阁已经不在黑珍珠榜上了，这样的出品不在榜上也是应该的了，只不过出品水平降了，价格却没降，真的不推荐了。",
+        "categories": [
+            "hotels"
+        ],
+        "tags": [
+            "hyatt"
+        ],
+        "date": "2023-11-04T13:48:31.000Z",
+        "cover": "https://static.fatesinger.com/2023/11/cyuaahpcuea87gfi.jpg",
+        "hidden": false,
+        "comments": true,
+        "uri": "/zh-cn/post/garden-pavilion",
+        "content": "榕阁 出品 餐厅 黑珍珠 叉烧 炒饭 柏悦 环境 价格 爱好者 电梯 大堂 预约 真的 周末 点评 体验 大众 这家 两三片 一层 公筷 无感 麻婆豆腐 脆皮 金戈 差评 1150 饭点 20 葱油 太腻 餐前 石锅 冰烧 21 鸡捞 没降 深圳 华而不实 每样 小食 黑金 推荐 七八百 酒水 道菜 几十块 种树 领导 住店 那么回事 菜品 一言难尽 上菜 换乘 弄个 望而却步 榜上 这么回事 水平 还行 太贵 不值 一百多 火腿 海螺 无语 客房 不差 菜肴 三层 容器 芝麻 跟上 直达 大楼 好吃 价位 豆腐 号称 人均 不难 灵魂 配套 印象 一顿 水果 只不过 结论 绝大多数 单独 没什么 客人 特色 空中 提前 不行 一半 一把 本来 确实 第一次 喜欢 实际上 服务 消费 大幅 下降 特别",
+        "objectID": "/zh-cn/post/garden-pavilion"
+    },
+    {
+        "title": "GR III 日记版短期使用体验",
+        "description": "GR III 日记版短期使用体验",
+        "categories": [
+            "gears"
+        ],
+        "tags": [
+            "ricoh"
+        ],
+        "date": "2024-07-04T05:32:37.000Z",
+        "cover": null,
+        "hidden": false,
+        "comments": true,
+        "uri": "/zh-cn/post/gr-3",
+        "content": "GR III 镜头 对焦 IIIx 配件 皮套 微距 原厂 优点 画幅 官方 玩意 机器 一点 这台 无语 模式 真的 机身 设计 购入 进出 一台 拍摄 缺点 电池 体积 口袋 哈苏 误触 出门 理光 炸子鸡 本机 不错 正片 距离 金属 大光 坏掉 实在 400 V30 深得我心 没人会 access 玩一玩 能大 Gb APP ii quick cm bag uhs 闲鱼 ASP travel 进灰 ND ADJ 拍慢 挂绳孔 指柄 PD APS 套机 HDR F2 卡槽 S20 300 倒爷 测光 难用 大部分 对不上 快门 握持 裤兜 光圈 耗电 富士 一档 当红 三千多 支持 非常容易 搭档 抢到 胶片 总归 凑热闹 京东 阻尼 预设 续航 自带 绝佳 扣子 二手 安全感 太差 按键 正副 价格 总比 过低 屏幕 捆绑 之行 远超 无用 几张 黑白 磨损 手动 太小 做工 存储 昂贵 卖掉 抢劫 场景 契机 最强 垃圾 留下来 切换 不合理 舒适 京都 发热 模拟 一堆 过快 遗憾 缺陷 保值 完美 体验 快乐 到位 软件 照片 不准 包围 日常 层面 不及 手指 连接 对付 频繁 安装 很难 足够 半天 系列 没想到 出售 早就 想着 一张 唯一 放在 一把 本来 喜欢 担心 优势 感觉 一只 功能 拥有 连续 很大 日本 东西 预期 发现 情况",
+        "objectID": "/zh-cn/post/gr-3"
+    },
+    {
+        "title": "RICOH GR IIIx Urban Editon",
+        "description": "GR IIIx 都市版短期使用体验",
+        "categories": [
+            "gears"
+        ],
+        "tags": [
+            "ricoh"
+        ],
+        "date": "2024-09-08T07:45:52.000Z",
+        "cover": null,
+        "hidden": false,
+        "comments": true,
+        "uri": "/zh-cn/post/gr-3x",
+        "content": "GR 镜头 理光 对焦 电池 配件 焦段 mm 原厂 画幅 拍摄 官方 价格 相机 捆绑 八千元 微距 walk IIIx HDF city 黑柔 gr3 snapshot III 口袋 设计 快门 光圈 富士 适合 续航 飞起 机身 都市 购入 拥有 版本 舒服 体验 体积 日常 黑屏 插卡 误触 哈苏 机器 卡片机 算是 记录 取景器 裁切 不错 正片 距离 模式 变多 新出 坏掉 要厚 ND 拍慢 Q3 指柄 天芬 V30 卡槽 40 aps 28 卡新出 没人会 ADJ gr3x 43 F2 asp 小贵 2400 糊掉 ASP APP 退求 Gb 进灰 30 能大 防抖 uhs ii AFC 受限于 偷拍 一块 优缺点 镁合金 像素 难用 大部分 握持 对不上 数码相机 耗电 玩意 惊艳 一档 三千多 够用 等效 非常容易 手拿着 内置 夜景 总归 阻尼 一点 预设 自带 安全感 太差 加价 买不到 置办 第一款 说句 按键 三块 套餐 正副 精髓 王者 下人 顿饭 无语 韭菜 美食 口水 总比 玩家 紧凑 过低 事实证明 屏幕 随身 无用 熟练 微型 黑白 物件 休闲 手动 太远 到手 兼顾 做工 带头 存储 手持 昂贵 抢劫 奈何 一阵子 这款 最强 垃圾 出行 一台 切换 胸前 不合理 舒适 一款 发热 缺点 好看 尺寸 遗憾 缺陷 不太 完美 全天 优点 二者 夜晚 一顿 最小 白天 不及 负担 手指 当作 便宜 连接 不算 对付 出门 忘记 太大 概率 安装 训练 想法 继承 足够 通用 半天 一套 老人 设置 出售 谨慎 后期 工具 值得 估计 一张 效果 两年 对象 放在 实在 购买 本来 喜欢 不好 短期 感觉 真的 解决 消费 空间 近期 连续 环境 需求 程度 内容 压力 很大 支持 城市 生活 情况",
+        "objectID": "/zh-cn/post/gr-3x"
+    },
+    {
+        "title": "胡志明市 City Walk",
+        "description": null,
+        "categories": [
+            "travel"
+        ],
+        "tags": [
+            "vietnam"
+        ],
+        "date": "2024-04-12T09:19:21.000Z",
+        "cover": "https://static.fatesinger.com/2024/04/dnh4k16zzcxiu6jy.jpg",
+        "hidden": false,
+        "comments": true,
+        "story_id": 102548,
+        "uri": "/zh-cn/post/ho-chi-minh-city",
+        "content": "酒店 胡志明市 体验 Grab 建议 搞定 越南 现金 支付宝 极差 刷卡 成功率 不错 景点 步行 海关 连锁 还好 国内 暴走 转乘 值机 时间 新山 甩尾 ISO 热石 签处 快门速度 蛮贵 20 合胃口 外食 吐槽 飞车党 可绑 另纸 60 City visa Walk 盗刷 一两百 岘港 节省时间 感觉 春卷 返程 扯皮 四百多 西贡 直飞 富士 法式 安检 选择 离境 绑定 可看 区别对待 拖鞋 本地人 一点 堵车 前台 洲际 中转 大同小异 一晚 机票 曼谷 太早 极佳 入境 块钱 好玩 国际 线上 风情 默认 很近 预约 同胞 谈不上 航班 拉高 马路 可控 预估 内侧 全程 人文 壮观 手持 按摩 好吃 安全性 出国 友好 站立 富国 洼地 落地 普及 难受 摩托车 英文 总共 缘故 走路 完美 帮忙 对话 英语 没法 尴尬 充裕 照片 手法 白天 机场 饮食 便宜 沟通 没什么 即可 随便 小心 分钟 适合 工作人员 市区 足够 办理 几次 天气 吃饭 可达 外面 提前 公里 中国 总体 晚上 交通 实在 建筑 深圳 位置 不好 真的 速度 推荐 操作 一句 服务 解决 感到 支持 自然 城市 能力 特别 超过",
+        "objectID": "/zh-cn/post/ho-chi-minh-city"
+    },
+    {
+        "title": "香港银行卡开户",
+        "description": null,
+        "categories": [
+            "zine"
+        ],
+        "tags": [
+            "hongkong"
+        ],
+        "date": "2024-11-15T05:28:00.000Z",
+        "cover": null,
+        "hidden": false,
+        "comments": true,
+        "uri": "/zh-cn/post/hongkong-bank",
+        "content": "信用卡 开户 地址 长桥 申请 网点 工银 提款卡 内地 转账 信银 hkid 香港 在线 中银 cnid 批卡 大湾 英文 亚洲 后续 推荐 银行卡 五万 身份证 中文 汇丰 证明 储蓄卡 富途 结单 拿卡 实人 必开 返现 激活 存款 选择 国际 天水 资料 认证 一万 消费 说实话 需求 交易 万事达 更新 报税 确认 设置 平信 互转 大陆 深圳湾 抽空去 有美股 标普 pulse GBA 港卡 存完 看盘 存点 60 visa signature 强太多 账卡 赞点 我用 盈透 wechatpay 难开 walk 可批 500 取号 只批 motion hk 很卡 刚补 人能 没拿到 用用 英文名 收不到 简单 好像 难用 确认书 挂失 无业 时长 挺不错 用做 稳稳 银联 刁难 绑定 支持 无损 告诉 账单 忽略不计 通行证 再就是 划算 提供 补上 重大事件 签证 无语 墨迹 六个月 高频 推销 默认 不太好 三周 没去 证件 还款 大额 下次 两件 公交 损耗 高额 狮子 签字 招行 搭配 直达 丰厚 无需 折腾 纳斯达克 痛快 起步 分行 落地 删除 中信 缺点 奖励 他家 最快 举报 收费 优点 打电话 后悔 门槛 免费 拿到 这方面 试图 工行 厉害 天天 推广 用户 幸福 境外 汇率 现金 变更 修改 信用 当初 额度 收到 工作人员 顺利 审批 文章 一周 放弃 道理 提前 现场 最低 保险 回家 不错 距离 券商 昨天 态度 海外 最早 境内 真的 相比 肯定 操作 只能 收入 内容 自然 银行 超过 影响 投资 公司 中国",
+        "objectID": "/zh-cn/post/hongkong-bank"
+    },
+    {
+        "title": "Hugo 使用 Cloudflare Worker 实现文章评论",
+        "description": "Hugo 使用 Cloudflare Worker 实现文章评论",
+        "categories": [
+            "hugo"
+        ],
+        "tags": [],
+        "date": "2024-06-20T11:11:24.000Z",
+        "cover": null,
+        "hidden": false,
+        "comments": true,
+        "uri": "/zh-cn/post/hugo-cf-comment",
+        "content": "d1 域名 wrangler hugo ts actionDomain cf Cloudflare assets 后台 主题 创建 部署 数据库 调用 comment cloudflare https 跨域 详情页 html npx database commentlist npm scsss execute 授权 绑定 即可 项目 设置 手动 远程 后续 依赖 数据表 评论 修改 文章 适配 强烈建议 配置文件 傻瓜式 文件 会弹 git github acf8 farallonComment 4025 id utils ingle install io 1123 js clone layouts e23e8a create local file nodejs DB b26 pages partial databaseid partials post databasename DOMAIN postSelector comments run databases schema 方便管理 dev 81 点赞 sql bigfa template toml binding Worker bfd5af74 vars wordpress worker wpista 环境 两三 页面 暂无 网页 管理 命令行 原生 两款 可控 聚合 样式 前端 无需 复制 开启 全家 地址 缺点 优点 目录 框架 分开 代码 免费 参数 自行 登陆 安装 天然 维护 启动 工具 一步 判断 执行 开发 支持 方法 数据 过程 生产 情况",
+        "objectID": "/zh-cn/post/hugo-cf-comment"
+    },
+    {
+        "title": "Hugo 使用 Cloudflare Worker 实现文章浏览计数与点赞",
+        "description": "Hugo 使用 Cloudflare Worker 实现文章浏览计数与点赞",
+        "categories": [
+            "hugo"
+        ],
+        "tags": [],
+        "date": "2024-05-13T07:31:20.000Z",
+        "cover": null,
+        "hidden": false,
+        "comments": true,
+        "uri": "/zh-cn/post/hugo-cf-worker",
+        "content": "d1 域名 hugo wrangler Cloudflare cf 数据库 博客 post execute ts class actionDomain 静态 绑定 部署 设置 主题 npm npx file sql schema 跨域 创建 即可 文章 手动 调用 文件 浏览量 cloudflare Github run https true Worker deploy github secret assets id database 授权 服务 修改 项目 网页 后台 功能 远程 前端 环境 地址 免费 数据表 适配 编辑 强烈建议 配置文件 会弹 farallonActions 如点 single Repository clone singleSelector D1 create Secrets text 4025 toml Settings template worker utils variables databaseid vars view Action UniqueId 有个 wordpress 1123 workflows wpista 点赞 domains yml DNS e23e8a DOMAIN 表则 DB 详情页 git 81 CLOUDFLAREAPITOKEN dev articleSelector views databases Google b26 Actions install bfd5af74 io viewSelector item key bigfa likeButtonSelctor acf8 MD local binding md5 btn Markdown nodejs databasename action 方案 普通用户 阵子 原汁原味 执行命令 博文 够用 密钥 文案 初始化 条目 自带 按钮 数据 付费 是否是 大同小异 计数 变现 命令行 生产 列表 发现 权限 两款 研究 解析 搭建 存储 无需 顺便 复制 额外 还好 开启 路径 全家 本文 转到 流量 目录 后续 展示 分开 访问 引入 外部 参数 依赖 命名 兴趣 没什么 登陆 评论 动态 额度 安装 自动 天然 平台 停止 启动 工具 新增 一步 估计 判断 成本 概念 统计 简单 执行 开发 解决 理论 支持 方法 原因 关系 过程 两个 情况",
+        "objectID": "/zh-cn/post/hugo-cf-worker"
+    },
+    {
+        "title": "Hugo 简明教程 01",
+        "description": null,
+        "categories": [
+            "hugo"
+        ],
+        "tags": [],
+        "date": "2024-05-29T08:51:54.000Z",
+        "cover": null,
+        "hidden": false,
+        "comments": true,
+        "uri": "/zh-cn/post/hugo-starter-01",
+        "content": "hugo markdown 服务器 html 可视化 博客 静态 git 网页 主题 生成器 文件 写作 安装 自动 界面 折腾 程序 文件夹 内容 上传 管理 功能 自定义 配置文件 平台 命令 一般来说 github wordpress brew 方便管理 submodule themes 模版 构建 优势 简单 程序员 玩意 动态 部署 文档 区别 网络 国内 维护 编译 工具 不想 放在 启用 手动 能干 插入 花钱 速度 推荐 托管 终端 审查 方法 体验 软件 想要 计算机 修改 文章 知识 根目录 编译器 图片 转化 仅仅 管理工具 花里胡哨 web blog 博主转 Markdown md install mac content 图床 Github build Wordpress module 官网 conent site 差太多 Chocolatey typecho Hugo actions ghost windows add 编辑器 普通用户 扯蛋 心理作用 真的 客户端 配合起来 介绍 浏览器 差劲 服务 成就感 几百块 选择 本质区别 基础知识 省下 发布 支持 文件系统 二进制 大坑 域名 臃肿 教程 上手 页面 转成 王道 酷爱 恭喜 文件名 关系 站点 快感 调试 省事 命令行 顺畅 默认 围观 三方 破解 说不出来 搭载 定制 引擎 为啥 第三方 抗拒 搭配 居多 复制 额外 一台 仓库 缺点 只会 找个 灾难 克服 随意 三种 个性 绝大部分 目录 几种 访问 下载 轻松 绝大多数 本质 创建 优化 用户 评论 即可 追求 算是 转换 好好 更好 理由 不错 语言 多个 新增 理解 媒体 那种 唯一 配置 已有 困难 购买 样子 难以 联合 突破 意义 执行 操作 大部分 传统 解决 成功 一年 建议 程度 长期 很大 自然 利用 代表 原因 一点 关注 基础 地方 情况",
+        "objectID": "/zh-cn/post/hugo-starter-01"
+    },
+    {
+        "title": "Hugo 简明教程 02",
+        "description": "本文主要介绍 Hugo 内容文件管理和页面 URL 设置",
+        "categories": [
+            "hugo"
+        ],
+        "tags": [],
+        "date": "2024-05-29T09:02:35.000Z",
+        "cover": null,
+        "hidden": false,
+        "comments": true,
+        "uri": "/zh-cn/post/hugo-starter-02",
+        "content": "页面 section 文章 目录 URL markdown 设置 文件 permalinks slug hugo 类型 Hugo categories tags slugorfilename 文件夹 内容 分类 标签 filename term post page content 归档 理解 配置 首页 结构 创建 默认 顶级 管理文件 tag taxonomy index md posts url taxonomies category 属性 推荐 展示 指定 常量 列表 列出 常规 管理 单独 获取 配置文件 主题 home 404 title story topics Site archive GetPage 我刚 status Pages RSS GitHub robotsTXT cats rss RegularPages html 详情页 模版 优先级 迭代 解释一下 信息 文档 文件名 提供 功能性 编译 喜好 渲染 众所周知 来个 博客 聚合 封面 存储 存放 选项 搭配 情况 一般来说 开头 某一 各种各样 本文 没法 集合 大胆 过后 新建 官方 日期 绝大多数 地图 连接 有助于 没什么 视为 灵活 描述 一级 带有 可用 一类 网站 原理 转换 常用 区别 讨论 谨慎 固定 语言 展开 至少 概念 经验 找到 简单 状态 介绍 设计 传统 不到 建议 项目 几个 特别 过程 作用 地方 两个",
+        "objectID": "/zh-cn/post/hugo-starter-02"
+    },
+    {
+        "title": "Hugo 简明教程 03",
+        "description": null,
+        "categories": [
+            "hugo"
+        ],
+        "tags": [],
+        "date": "2024-05-29T09:04:24.000Z",
+        "cover": null,
+        "hidden": false,
+        "comments": true,
+        "uri": "/zh-cn/post/hugo-starter-03",
+        "content": "md 文件 archetypes 自定义 设置 posts index url params 原型 hugo layout slug 默认值 调用 default markdown categories Hugo 字段 模版 文章 模板 分类 站点 理解 html banner 02 content cover archetype 参数 创建 菜单 页面 目录 默认设置 返回 规则 内容 主题 时间 数据 cascade 该值 richisgood weight zine 2024 主题目录 section 00 08 Params draft themes jpg images 详情页 theme date title 类型 优先级 简单 归档 信息 指定 读取 图片 查找 功能性 多个 配置 数据库 默认 推荐 存储 添加 发布 顺序 构建 标题 不太 一行 生成器 单独 循环 保存 根目录 副标题 程序 配置文件 置顶 将值 wordpress 25 wp 当子 false friends Markdown 14 fujifilm gears 改值 goods 01 Posts 36 中是 Smith 10 T04 54 author json kind T21 Example CMS markdwon 给子 menus post Date Cascade postmeta John page tags term 扩展名 下下 速度 介绍 一部分 删掉 强烈推荐 初始化 更近 条目 内置 草稿 教程 白话 项目 本法 上传 网页 文件名 使用者 具体内容 标签 表达式 节点 前言 举例 各种类型 渲染 成品 大大增加 用法 博客 正文 数组 静态 样式 中文 储存 情况 折腾 复制 额外 忽略 顶部 本文 英文 一篇 转为 权重 有用 同学 定义 测试 高端 参考 例子 不多 逻辑 官方 绝大多数 覆盖 特定 即可 修改 大于 动态 适合 足够 系列 等于 熟悉 错误 自动 相当于 名称 区别 体现 模式 命令 将会 已有 放在 意味着 提升 开发 办法 数量 只能 选择 分为 支持 方法 位于 结构 基础 提供 管理 发现 研究 包括 两个",
+        "objectID": "/zh-cn/post/hugo-starter-03"
+    },
+    {
+        "title": "Hugo 简明教程 04",
+        "description": "本文主要讲解 hugo 的部署方法。",
+        "categories": [
+            "hugo"
+        ],
+        "tags": [],
+        "date": "2024-05-29T09:05:06.000Z",
+        "cover": null,
+        "hidden": false,
+        "comments": true,
+        "uri": "/zh-cn/post/hugo-starter-04",
+        "content": "hugo github actions build pages 部署 域名 latest vercel 默认 绑定 https minify gc git main 平台 命令 自动 手动 v3 push secrets Bigfa oss ignoreCache peaceiris public Vercel 推荐 配置 生成 仓库 传到 构建 配置文件 Cloudflare master yml notability deploy branches checkout wpista true extended gh recursive fetch cleanDestinationDir run cloudflare html Build action workflows jobs ubuntu steps v2 runs Hugo submodules depth version Setup 更新 服务器 参数 触发 文件 bucket v1 cl 0.125.4 endpoint PUBLISH VERSION string personaltoken demo strings HUGO 普通用户 缓存 版本 目录 有用 即可 云端 包含 站点 速度 阿里 托管 忽略 全家 项目 访问速度 原理 根目录 自定义 设置 网络 主题 多个 理解 情况 绝配 aliyun BRANCH files ACCESSKEYID aliyuncs folder apiToken PC baseURL headcommit commitmessage io js Pages buildDrafts DIR json buildExpired message Project buildFuture event Deploy nginx Publish Settings Environment projectName cn fangbinwei command commit settings accessKeySecret shanghai ssd Github content contentDir ACCESSKEYSECRET d0a457cef81f6ea340f9ff6ca6b6ff7a theme tokens accessKeyId directory disableKinds Mac website accountId env CLOUDFLAREAPITOKEN OSS wranglerVersion Variables upload fatesinger 懒人 学习 很快 简单 可视化 客户端 很棒 推送 执行 环境变量 玩法 内容 密钥 支持 计费 整套 方法 草稿 过期 页面 后移 上传 基础 国内 禁用 不成问题 基本原理 顺畅 那句话 收录 比较复杂 懒得 讲解 百度 傻瓜 无所谓 上会 移植 备案 一班 联动 静态 良心 两步 步骤 一般来说 流程 压缩 本文 缺点 克服 优点 绝大部分 变量 参考 新建 官方 日期 只不过 分支 深度 输出 创建 指定 对付 修改 动态 文章 足够 网站 一套 图片 不行 强大 将来 工具 不想 放在 困难 更是 类型 喜欢 难以 意义 介绍 服务 建议 需求 选择 一点 特别 两个",
+        "objectID": "/zh-cn/post/hugo-starter-04"
+    },
+    {
+        "title": "Hugo 简明教程 05",
+        "description": null,
+        "categories": [
+            "hugo"
+        ],
+        "tags": [],
+        "date": "2024-06-27T02:11:35.000Z",
+        "cover": null,
+        "hidden": false,
+        "comments": true,
+        "uri": "/zh-cn/post/hugo-starter-05",
+        "content": "html content 文件 文件夹 hugo layouts xxx 主题 自定义 目录 assets layout 模版 列表 理解 taxonomy 详情页 md list section static 修改 样式 文章 挂载 toml data 主题目录 home Hugo index shared rich single source i18n archetypes markdown default theme target 可定义 普通用户 优先级 逻辑 文件系统 白话 页面 多个 调用 存储 路径 顺序 方法 结构 代码 参考 覆盖 分类 配置文件 复制到 module UnionFS movie page partial front partilas patials 超链接 pipes post file public render typescript resources LICENSE 404. scss baseof shortcode 404 shortcodes README Get Union link system term markup farallon mounts travel embed yaml meta 概念 位置 联合 豆瓣 推荐 介绍 复用 模板 首页 原样 特别 站点 编译 后会 默认 渲染 讲解 讲过 原型 初始 存放 放置 匹配 本文 国际化 构建 任意 翻译 优先 同一个 框架 污染 创建 单独 视为 适合 更新 准确 合并 很难 设置 最低 中有 语言 命令 效果 本来 解释 简单 功能 操作 目的 三个 内容 项目 数据 基础 两个 情况",
+        "objectID": "/zh-cn/post/hugo-starter-05"
+    },
+    {
+        "title": "Hugo 主题 Farallon",
+        "description": null,
+        "categories": [
+            "hugo"
+        ],
+        "tags": [
+            "hugo"
+        ],
+        "date": "2023-10-30T13:07:22.000Z",
+        "image": null,
+        "hidden": false,
+        "comments": true,
+        "weight": 1,
+        "story_id": 101971,
+        "uri": "/zh-cn/post/hugo-theme-farallon",
+        "content": "https title content travel md index Params memo 站点 设置 Gear story cn cat static png brand 2023 fatesinger zh cover bigfa 参数 目录 新建 简体中文 movie layout 10 FX1CAS2SD8 00 mainSections FujiFilm subject DefaultContentLanguage hugo algolia true description douban 06 en 35451890 ALGOLIAWRITEKEY gears faves adminKey 即可 卡片 页面 文件 配置 类型 格式 旅行 创建 文章 参数设置 分类 默认值 直接插入 编辑 配置文件 algolia2 authorDescription 40 apikey i18n indexName 04 appid input instax authorAvatar loser Hugo main authorName markdown avatar b0825b184f45c084e31770fbcc9261f2 secrets mini mm 128 pc5qctiddj2uy6g post 0.3.1 search searchAPPID Gears meta secure 05 showAuthor computer 2021 subtitle tlp9i57mnbamhapp token Leica date 2022 v1 workflow yaml draft Search Sofort false caibingcheng 使用指南 1. T15 值为 fd7e2e17a671f8e3fade0706e0a667e fmdvfzy5kwu320q 内链 searchKey X100V fuji 11 03 gear categories 39 github gravatar 字段 模版 换为 豆瓣 取掉 文件夹 古法 够用 条目 方法 小站 演示 保持一致 别名 试用 默认 列表 链接 三方 字符串 字符 语音 数组 多余 地址 英文 版本 提交 翻译 搜索 体验 物品 暴露 框架 代码 免费 日期 一行 依赖 自行 单独 想要 额度 描述 更新 制作 自动 相当于 主题 维护 语言 作者 状态 推荐 信息 选择 支持 项目 数据",
+        "objectID": "/zh-cn/post/hugo-theme-farallon"
+    },
+    {
+        "title": "Hugo 主题 Hera",
+        "description": null,
+        "categories": [
+            "hugo"
+        ],
+        "tags": [
+            "hugo"
+        ],
+        "date": "2025-01-03T05:36:45.000Z",
+        "cover": null,
+        "hidden": false,
+        "comments": true,
+        "uri": "/zh-cn/post/hugo-theme-hera",
+        "content": "https title content travel index memo Params md 站点 设置 story Gear cn png cat brand zh bigfa cover fatesinger static 参数 目录 新建 简体中文 06 hugo 03 algolia adminKey FX1CAS2SD8 mainSections DefaultContentLanguage en subject layout description 35451890 douban 2023 movie faves gears FujiFilm true 00 ALGOLIAWRITEKEY 即可 卡片 页面 文件 配置 类型 格式 旅行 创建 文章 参数设置 分类 直接插入 默认值 编辑 配置文件 gravatar input 39 i18n algolia2 1. apikey indexName 40 appid instax authorAvatar 10 loser 0.0.2 main authorDescription markdown 2021 authorName avatar meta mini b0825b184f45c084e31770fbcc9261f2 mm 128 pc5qctiddj2uy6g categories post caibingcheng search searchAPPID searchKey secure secrets showAuthor Gears computer subtitle tlp9i57mnbamhapp Hugo token date v1 2022 Leica workflow yaml 05 draft false Search 使用指南 2025 Sofort 值为 fd7e2e17a671f8e3fade0706e0a667e T15 内链 fmdvfzy5kwu320q 01 fuji 04 gear X100V github 字段 模版 换为 豆瓣 取掉 文件夹 古法 够用 条目 方法 小站 演示 保持一致 别名 试用 默认 列表 链接 三方 字符串 字符 语音 数组 多余 地址 英文 版本 提交 翻译 搜索 体验 物品 暴露 框架 代码 免费 日期 一行 依赖 自行 单独 想要 额度 描述 更新 制作 自动 相当于 主题 维护 语言 作者 状态 推荐 信息 选择 支持 项目 数据",
+        "objectID": "/zh-cn/post/hugo-theme-hera"
+    },
+    {
+        "title": "Hugo 主题 Notability",
+        "description": "Hugo 主题 Notability",
+        "categories": [
+            "hugo"
+        ],
+        "tags": [],
+        "date": "2023-10-30T14:27:17.000Z",
+        "cover": "https://static.fatesinger.com/2023/09/czukqwphyybsxjhx.jpg",
+        "hidden": false,
+        "comments": true,
+        "story_id": 74850,
+        "uri": "/zh-cn/post/hugo-theme-notability",
+        "content": "https title memo 站点 Params 2023 static Gear brand content fatesinger cover png md cat 参数 简体中文 设置 cn FujiFilm movie DefaultContentLanguage 35451890 faves 00 mainSections story douban zh en gears 06 subject 目录 类型 格式 地址 即可 文章 参数设置 默认值 直接插入 配置文件 主题 文件 抽时间 配置 mm computer 39 post secure authorDescription 11 showAuthor subtitle date true 04 description pc5qctiddj2uy6g 05 draft 使用指南 false Gears 内链 20. Leica 2022 fd7e2e17a671f8e3fade0706e0a667e 1. fmdvfzy5kwu320q tlp9i57mnbamhapp fuji Sofort gear 128 T15 2021 gravatar 0.3.0 X100V hugo i18n index instax loser authorName authorAvatar 40 markdown 03 avatar 10 bigfa meta mini 字段 豆瓣 换为 取掉 文件夹 古法 条目 卡片 演示 别名 试用 远古 复活 默认 列表 链接 三方 字符串 字符 语音 简洁 数组 多余 英文 版本 翻译 物品 框架 代码 新建 一行 依赖 创建 自行 单独 描述 更新 制作 相当于 维护 语言 最新 作者 状态 信息 选择 支持 方法 项目 数据 时间",
+        "objectID": "/zh-cn/post/hugo-theme-notability"
+    },
+    {
+        "title": "Hugo 主题 Puma",
+        "description": null,
+        "categories": [
+            "hugo"
+        ],
+        "tags": [
+            "hugo"
+        ],
+        "date": "2025-02-09T13:20:09.000Z",
+        "cover": null,
+        "hidden": false,
+        "comments": true,
+        "uri": "/zh-cn/post/hugo-theme-puma",
+        "content": "https title Params content memo 站点 png cat md brand story index fatesinger bigfa zh Gear cover cn static 参数 设置 简体中文 adminKey algolia 35451890 faves hugo 00 mainSections FX1CAS2SD8 subject douban movie en 2023 10 DefaultContentLanguage ALGOLIAWRITEKEY FujiFilm 06 true gears 目录 配置 类型 格式 新建 创建 即可 文章 参数设置 默认值 直接插入 配置文件 文件 algolia2 i18n 39 apikey 40 instax loser indexName 03 authorAvatar main markdown authorDescription meta 04 avatar mini mm authorName b0825b184f45c084e31770fbcc9261f2 searchAPPID pc5qctiddj2uy6g post search 1. 128 searchKey secrets secure 2021 showAuthor computer subtitle appid Gears tlp9i57mnbamhapp token v1 Hugo date workflow description yaml 2022 Leica draft 02 05 caibingcheng 使用指南 false Search 值为 Sofort 内链 0.0.6 fd7e2e17a671f8e3fade0706e0a667e T15 fmdvfzy5kwu320q input fuji 2025 gear X100V github gravatar 字段 换为 豆瓣 取掉 文件夹 古法 够用 条目 卡片 小站 演示 保持一致 别名 试用 默认 列表 链接 三方 字符串 字符 语音 数组 多余 地址 英文 版本 提交 翻译 搜索 物品 暴露 框架 代码 免费 日期 一行 依赖 自行 单独 额度 描述 更新 制作 自动 相当于 编辑 主题 维护 语言 作者 状态 推荐 信息 选择 支持 方法 项目 数据",
+        "objectID": "/zh-cn/post/hugo-theme-puma"
+    },
+    {
+        "title": "再游拙政园",
+        "description": null,
+        "categories": [
+            "zine"
+        ],
+        "tags": [
+            "mini"
+        ],
+        "date": "2024-05-19T03:47:50.000Z",
+        "cover": "https://static.fatesinger.com/2024/05/6wcuefk2nt6ufu5e.jpg",
+        "hidden": false,
+        "comments": true,
+        "uri": "/zh-cn/post/humble-administrators-garden",
+        "content": "再游 时隔多年 拙政园 心境 园林 兴趣 没什么",
+        "objectID": "/zh-cn/post/humble-administrators-garden"
+    },
+    {
+        "title": "iPhone 16 Pro eSIM 使用体验",
+        "description": null,
+        "categories": [
+            "gears"
+        ],
+        "tags": [
+            "apple"
+        ],
+        "date": "2024-11-01T08:22:51.000Z",
+        "cover": null,
+        "hidden": false,
+        "comments": true,
+        "uri": "/zh-cn/post/iphone16pro",
+        "content": "eSIM 支持 手机 充电 日版 25 cmlink 国行 全球通 家乡 新机 漫游费 营业厅 手机号 无线 性价比 香港 金色 淘宝 短信 上台 选择 好看 体验 流量 打电话 国内 港版 用户 电器店 黑色 自定义 内地 备忘 投入 人吐槽 未激活 卡顿 15 直降 坑爹 IP 200 iPhone 很卡 magsafe GFW 更窄 单卡 siri 新色 AI magstone 蛮贵 国补 购买 基站 不思进取 多年 迭代 无解 边框 身份证件 金贵 发短信 阉割 绑定 动画 拆解 鸡肋 看不上 原价 搜索引擎 续航 拨出 变化 大容量 退税 接电话 出示 按键 预留 套餐 漫游 诈骗 无语 价格 通话 后会 原生 下一代 过低 留学生 幸好 百度 百亿 电子设备 不在乎 存储 卖掉 中文 降价 运营商 电信 欲望 金钱 五百 不佳 验证 两点 难受 地址 一款 英文 放缓 预示 尺寸 版本 苹果 完美 冲动 首发 有时候 过多 后果 补贴 日常 麻烦 官方 脚步 资格 满意 提示 实体 优惠 分钟 适合 更新 机器 太多 开放 高速 回归 仔细 办理 通用 颜色 不行 习惯 理由 打算 不错 大陆 估计 不想 两年 设备 增强 判断 本来 主力 第一次 很快 感觉 真的 简单 状态 去年 功能 传统 只能 信息 接受 希望 机会 日本 原因 风险 增加 地区 发现 发生 研究",
+        "objectID": "/zh-cn/post/iphone16pro"
+    },
+    {
+        "title": "九寨沟",
+        "description": null,
+        "categories": [
+            "travel"
+        ],
+        "tags": [
+            "china"
+        ],
+        "date": "2024-09-21T11:49:13.000Z",
+        "cover": null,
+        "hidden": false,
+        "comments": true,
+        "uri": "/zh-cn/post/jiuzhaigou",
+        "content": "碳酸钙 九寨沟 堤埂 所含 水中 树正沟 日则沟 树正 随水 12000 转暖后 条主沟 其上 长海 堆积起来 远古时代 海子 天海 堰塞湖 漂流 乳白色 障碍物 钙质 一条条 冰期 凝结 附着 六大 景区 三条 景观 流水 距今 源于 湖泊 年前 积累 地球 活跃 气候 只能 处于 分布",
+        "objectID": "/zh-cn/post/jiuzhaigou"
+    },
+    {
+        "title": "Kimpton Suzhou",
+        "description": null,
+        "categories": [
+            "hotels"
+        ],
+        "tags": [],
+        "date": "2024-05-19T12:52:52.000Z",
+        "cover": "https://static.fatesinger.com/2024/05/28349llegbumt3hr.jpg",
+        "hidden": false,
+        "comments": true,
+        "uri": "/zh-cn/post/kimpton-suzhou-bamboo-grove",
+        "content": "差评 酒店 喜欢",
+        "objectID": "/zh-cn/post/kimpton-suzhou-bamboo-grove"
+    },
+    {
+        "title": "丽江金茂凯悦甄选",
+        "description": null,
+        "categories": [
+            "hotels"
+        ],
+        "tags": [
+            "china"
+        ],
+        "date": "2024-04-16T06:02:14.000Z",
+        "cover": "https://static.fatesinger.com/2024/04/jtl06ju0j1kplx8n.jpg",
+        "hidden": false,
+        "comments": true,
+        "story_id": 103058,
+        "uri": "/zh-cn/post/lijiang-ub",
+        "content": "丽江 凯悦 甄选 洲际 旅游 业主 束河 索道 云南 古镇 选择 同一个 云南旅游 两晚 泸沽湖 昆大丽 买大 而金茂 香馆 金茂璞 第一晚 三四千元 本次 阵子 国内游 真的 推荐 加湿器 玉龙雪山 动车 公路线 挺大 只能 亲子 体量 通了 原价 首推 买票 午餐 一晚 入住 度假 铁路线 地方 来过 门票 雪山 日照 硬件 金山 千古 积分 一千 兑换 山路 不适 太高 景观 友好 切换 八个 出血 环球 一圈 安静 双双 酒店 干燥 鼻子 太大 房间 可惜 升级 两家 适合 放弃 屋里 算是 第二天 更好 不错 坐下 飞机 完善 当年 实在 动物 小时 本来 身体 首次 位置 大部分 产业 面积 城市 价格 作用",
+        "objectID": "/zh-cn/post/lijiang-ub"
+    },
+    {
+        "title": "Mac Studio M2",
+        "description": null,
+        "categories": [
+            "gears"
+        ],
+        "tags": [
+            "apple"
+        ],
+        "date": "2023-11-10T07:26:33.000Z",
+        "cover": "https://static.fatesinger.com/2024/01/j1n89q9ehu0ci87i.jpeg",
+        "hidden": false,
+        "comments": true,
+        "uri": "/zh-cn/post/mac-studio-m2",
+        "content": "京东 百亿 老版 心水 Mac 教育 补贴 优惠 新版 没得说 渠道 贴钱 M2 Max Studio AC 12499 Docker mini 卡顿 14200 初代 399 老款 YYDS 官翻 劝退 优惠价格 终于 搞点 形势严峻 应用程序 回本 加点 选择 纠结 全网 找人 最低价 显示器 两套 认证 好久 最优 拿下 购入 额外 型号 手上 性能 打算 不想 配置 两年 投入 购买 真的 相比 推荐 希望 第一 压力 东西 价格 工作 时间 情况",
+        "objectID": "/zh-cn/post/mac-studio-m2"
+    },
+    {
+        "title": "Macbook Air M2 2022",
+        "description": "双十一下单了新电脑，当时也在电报频道里更新了，现在收货差不多有一周了，来写个文章。",
+        "cover": "https://static.fatesinger.com/2023/11/irjc1fvtxz6at8l9.jpg",
+        "categories": [
+            "gears"
+        ],
+        "tags": [
+            "apple"
+        ],
+        "date": "2023-11-06T09:53:54.000Z",
+        "image": null,
+        "hidden": false,
+        "comments": true,
+        "story_id": 102558,
+        "uri": "/zh-cn/post/macbook-air-m2",
+        "content": "M2 pro 电脑 Macbook 双十 版本 屏幕 Mac air 苹果 电脑配置 入门 显示器 Pro intel Air 光驱 18 trade M3 9000 mac AC Studio 购买 缺点 免息 硬盘 一套 暴躁 这台 键盘 三期 芯片 配置 家里 淘宝 真的 不适 优点 服役 第三台 港版 一周 刘海儿 耐脏 苹果电脑 适配 配合 第二台 斗地主 贴纸 打游戏 好累 强迫症 几天 抛去 toubar touch 很丝滑 台新 这代 windows 15 xspace 官翻 16 出掉 算上来 10 有个 MF839 MacBook Adobe 100 版官 arm photomator magsafe 单已下 id MAX 翻机 具体型号 丐中 SSD 15000 蓝瓶 丝滑 macbook 略重 国行 1150 算多 list 外接 退出 收货 喜欢 感觉 划掉 原色 重新配置 没用过 程序员 玩游戏 慢点 应用程序 充值 接受 富士 下单 买过 环境 上装 重装 内存 平均寿命 系统 京东 历史舞台 与时俱进 写个 模具 太好 风扇 二手 解决不了 大容量 电子产品 付费 爸妈 划算 记不清 强悍 前前后后 性价比 正事 无语 榨取 刘海 机型 午夜 瞧不起 固态 顺畅 瓶子 港澳 复活 吃紧 外壳 乞丐 丑陋 分期 银行卡 预约 第一台 接口 笔记本 三方 叠加 无所谓 频道 家里人 退役 限定 供电 拆除 花钱 店铺 太少 购入 极高 视觉 垃圾 购物 额外 改装 电报 一台 切换 还好 咖啡 上学 全家 飙升 一共 花费 感慨 之路 生态 型号 第五 心态 周边 第一部 犹豫 公司 观望 差距 指定 第四 没什么 满意 到期 用户 剩余价值 优惠 升级 更新 机器 文章 太多 带有 被迫 算是 颜色 五年 完整 实力 一路 平稳 一项 性能 温度 最低 不错 发挥 打开 保障 几年 最新 不想 放在 设备 安排 大学 多年 提升 推荐 面前 终于 只能 正式 第一 较大 原因 过程 价格 工作 发展",
+        "objectID": "/zh-cn/post/macbook-air-m2"
+    },
+    {
+        "title": "麦积山仿古",
+        "description": "Maijishan Cave-Temple Complex",
+        "categories": [
+            "travel"
+        ],
+        "tags": [
+            "china"
+        ],
+        "date": "2024-09-24T08:28:53.000Z",
+        "cover": null,
+        "hidden": false,
+        "comments": true,
+        "uri": "/zh-cn/post/maijishan",
+        "content": "小时 南站 麦积山 一个半 打车 天水 兰州 游客 西安 之内 是从 交通 中心",
+        "objectID": "/zh-cn/post/maijishan"
+    },
+    {
+        "title": "深圳柏悦酒店",
+        "description": "周六了住了下深圳柏悦，本次环球客现金入住，周六 2100 在最近算是不错的价格，毕竟深圳的酒店周末价格都会高一些。",
+        "cover": "https://static.fatesinger.com/2023/11/lfvsapye5xvq2m9o.jpg",
+        "categories": [
+            "hotels"
+        ],
+        "tags": [
+            "Hyatt",
+            "Park Hyatt"
+        ],
+        "date": "2023-10-29T11:07:06.000Z",
+        "hidden": false,
+        "comments": true,
+        "uri": "/zh-cn/post/park-hyatt-shenzhen",
+        "content": "酒店 房间 柏悦 深圳 环球 入住 大堂 角房 安达 不错 泳池 房型 礼宾 体验 布置 平安 卡片 出品 客房 周六 地理位置 套房 面积 舒适 中心 免费 布光 现金 挑战 算是 闪光点 水太凉 太凉 凯悦 左手边 挺舒服 深圳湾 花瓣儿 人不多 客给 背景墙 仕和柏悦 大床 人游 还开 榕阁 卫洗丽 一嘴 房柏悦会 挺难 床用 2100 hour 有个 仕二选 泡池 minibar 泳健 Happy 香印 单点 右手边 本次 桑拿 封印 火漆 挺不错 福田区 心形 地标 价格昂贵 开灯 通透 台子 纪念日 客套 天际 展厅 中式 福田 基础 一楼 直通 满满 拍照 卫生间 价格 打车 办公楼 冷气 标配 电梯 总能 老化 问候 蛋糕 餐饮 早餐 雕像 诡异 玫瑰 下次 水准 提了 大方 再见 花瓣 保养 价位 镜子 排队 视觉 开业 景观 值得一提的是 十一月 痕迹 优越 行李 还给 缺点 周末 好看 一篇 豪华 优点 茅台 细节 不小 商务 水果 玻璃 接过 可惜 升级 设施 送到 文章 办理 空中 相当于 奇怪 天气 布局 提前 温度 门口 旁边 几年 总体 效果 晚上 艺术 电话 建筑 一块 第一次 喜欢 降低 品种 设计 服务 成功 只能 需求 很大 位于 一点 特别 提供 增加",
+        "objectID": "/zh-cn/post/park-hyatt-shenzhen"
+    },
+    {
+        "title": "原生美国手机卡 Ultra Mobile PayGo",
+        "description": null,
+        "categories": [
+            "zine"
+        ],
+        "tags": [],
+        "date": "2024-11-05T15:48:10.000Z",
+        "cover": null,
+        "hidden": false,
+        "comments": true,
+        "uri": "/zh-cn/post/paygo",
+        "content": "eSIM wifi 激活 calling 开启 绑定 美金 节点 paypal 美区 手机号 地址 京东 注册 美国 插卡 点击 月费 此卡 短信 失败 中文 paygo iPhone 账号密码 ac app 成功 输入 支持 实体 邮箱 手机 淘宝 招行 每月 代理 麻烦 便宜 续费 登陆 境外 即可 概率 网站 真实 暂时 一张 美版 日版 首月 eBay ultra CMHK Oregan 养号 安卓 美卡 200 PayGo 位卡密 gmail 我试 mobile 129 Paypal https store 全币 8.75 月付 未激活 有个 activation ultramobile 13 要加 卡槽 卡转 用美区 11 AppleCare 20 手机卡 不挂 好几种 局域网 验证码 翻车 需求 选择 弹出 偷盗 原价 邮寄 网页 无线 蜂窝 转回 通话 低成本 填写 免税 默认 要钱 客服 谷歌 到手 开关 全程 信用卡 登录 全局 为啥 上台 添加 背面 在线 友好 验证 切换 国产 电脑 下载 住宅 地图 连接 随便 无论是 确认 转换 天然 设置 提醒 区别 费用 最低 网络 不错 不想 方案 设备 成本 购买 本来 简单 人民币 推荐 只能 收入 信息 建议 连续 原因 一点 方式 国内 过程 价格 发现 时间",
+        "objectID": "/zh-cn/post/paygo"
+    },
+    {
+        "title": "青岛瑞吉",
+        "description": null,
+        "categories": [
+            "travel"
+        ],
+        "tags": [
+            "china"
+        ],
+        "date": "2024-05-29T09:30:00.000Z",
+        "hidden": false,
+        "comments": true,
+        "uri": "/zh-cn/post/qingdao-city-walk",
+        "content": "万豪 海景 套房 卡罗琳 酒店 白金 青岛 不错 入住 本次 积分 景观 这家 换过去 升级 抠门儿 联名卡 转乘 打卡 加持 瑞吉 风大点 主卫 客卫 航段 转投 MOD 狗屎运 升套 个测 说瑞吉 暗卫 IHG 升房 好几家 爆棚 婉拒 值得一提 超值 造访 不出意外 说真的 洲际 防水 拍照 不收 最低价 欣然 景点 客房 电梯 大堂 肉眼 淡季 硬件 运气 大使 大大小小 靠着 进屋 高空 预定 管家 中信 缺点 好看 舒服 体验 打电话 尝试 贬值 一会 只不过 前去 房间 挑战 算是 五年 拒绝 答应 旗下 二是 总体 唯一 两年 一是 一件 却是 感觉 真的 分布 自然 机会 东西 活动 发现",
+        "objectID": "/zh-cn/post/qingdao-city-walk"
+    },
+    {
+        "title": "二手闲置",
+        "description": null,
+        "categories": [
+            "zine"
+        ],
+        "tags": [],
+        "date": "2024-11-11T05:35:33.000Z",
+        "cover": null,
+        "hidden": false,
+        "comments": true,
+        "uri": "/zh-cn/post/second-hand",
+        "content": "包装 ac 256 Apple 白色 Max Pro 588 可小 ipad pencil iPhone mini 原厂 黑色 邮寄 港币 编织 痕迹 一代 小键盘 铁站 优惠 自定义 表带 爱马仕 连接线 面交 一支 apple casetify 围港 518 iPad 1488 处有 matusow 妙控 不刀 5988 mm 微信 Studio 788 touchid wacth 12 3088 32 AC Airpods 油边 15 单出 pad 13 年付 1500 512 2888 Homepod 3688 M2 国行 控板 S7 45 Mac 338 11888 雷雳 488 20 自提 那款 送个 磕碰 原色 皮壳 科兴 边角 壳子 自购 暂定 绑定 够用 橙色 交易 万象 续航 键盘 付费 耳机 充电 蜂窝 不锈钢 默认 天水 打包 磨损 盒子 不带 三代 南山 原则上 两支 垃圾 灰色 皮革 版本 苹果 细节 天地 有意 官方 地点 确认 一对 手机 晚上 放在 香港 家里 去年 一只 不到",
+        "objectID": "/zh-cn/post/second-hand"
+    },
+    {
+        "title": "首尔转机游记",
+        "description": "春节转机。",
+        "categories": [
+            "travel"
+        ],
+        "tags": [
+            "South Korea"
+        ],
+        "date": "2024-05-22T15:54:18.000Z",
+        "cover": null,
+        "hidden": false,
+        "comments": true,
+        "uri": "/zh-cn/post/seoul-transfer",
+        "content": "首尔 机场 转机 酒店 仁川 台北 恶劣 冬天 白天 市区 算是 入境手续 君悦 普同款 川普 蛮贵 返深 uber 真住 只住 血亏 韩元 很贵 七万 雨夹雪 大巴 押注 护照 风大 四万 出境 一晚 签证 机票 入境 入住 用车 很早 繁忙 受不了 哈尔滨 排队 顺便 套房 景观 行李 春节 青岛 停留 气温 山上 路线 干燥 便宜 韩国 第二天 天气 人数 外面 晚上 昨天 气候 香港 本次 深圳 位置 成功 一年 方式 价格",
+        "objectID": "/zh-cn/post/seoul-transfer"
+    },
+    {
+        "title": "Singapore City Walk",
+        "description": null,
+        "categories": [
+            "travel"
+        ],
+        "tags": [
+            "singapore"
+        ],
+        "date": "2024-04-15T11:03:47.000Z",
+        "cover": "https://static.fatesinger.com/2024/04/2d0hq8czqqdenilh.jpg",
+        "hidden": false,
+        "comments": true,
+        "story_id": 103056,
+        "uri": "/zh-cn/post/singapore",
+        "content": "酒店 演唱会 出行 Taylor Swift 怨种 溜达 价格 夸张 还好 房间 发达国家 两千左右 凯悦 紧张 要开 最怨种 两三倍 深圳 阵子 样子 感觉 真的 牛肉面 消费 安达 两百 搞定 专车 正赶上 滴滴 长距离 生活 前两天 一晚 打车 三亚 亏了 两万 天价 不太好 回想 餐饮 几百 华人 餐厅 积分 兑换 万分 地铁 堪称 五千 中文 预料 套房 见识 好歹 素质 普及 舒适 有钱 超级 赶上 一碗 人均 体验 新加坡 不多 超出 平日 评价 房价 天气 接触 一批 语言 网上 南方 总体 核心 确实 接受 人民 程度 原因 一点 水平 特别 国内 地方",
+        "objectID": "/zh-cn/post/singapore"
+    },
+    {
+        "title": "徕卡 Sofort",
+        "description": null,
+        "categories": [
+            "gears"
+        ],
+        "tags": [
+            "Leica"
+        ],
+        "date": "2023-10-26T01:32:23.000Z",
+        "image": null,
+        "hidden": false,
+        "comments": true,
+        "uri": "/zh-cn/post/sofort",
+        "content": "mini 90 富士 相纸 sofort 换壳 40 照片 买不起 立得 扫描仪 脚架 玩意 原装 打印机 二手 成色 模式 一张 几张 磨损 到手 曝光 拍摄 维修 电池 双重 价格 发现 区别 手机 难买 三盒 一千五 腕带 新出 小慌 闲鱼 开盲 一玩 不废片 拆件 400 数码化 APP PD 微距 拆扣 70 一热花 evo 有个 多买 紫边 白边 再试 薰衣草 个人感觉 老古董 肩带 只能 派对 发布 代工 过期 拆掉 自带 五块 实测 按键 一盒 花边 分辨率 块钱 太长 相机 些许 过低 二代 默认 成像 涨到 傻瓜 移到 心愿 镜头 一模一样 谷歌 扫描 上天 停产 购入 跳水 入口 开心 看似 买家 外出 脑子 购物 规格 售价 一组 算了 省内 级别 体积 全新 后悔 略有 一代 内心 日常 官方 参数 美丽 沟通 满意 升级 当初 机器 通用 确认 没想到 打算 专业 不错 关键 检查 想起 效果 那种 第一个 昨天 投入 当年 本次 位置 找到 感觉 真的 简单 想到 相比 多年 操作 接受 几个 东西 时间",
+        "objectID": "/zh-cn/post/sofort"
+    },
+    {
+        "title": "苏州 City Walk",
+        "description": null,
+        "categories": [
+            "travel"
+        ],
+        "tags": [
+            "china"
+        ],
+        "date": "2024-05-22T06:10:33.000Z",
+        "cover": null,
+        "hidden": false,
+        "comments": true,
+        "uri": "/zh-cn/post/suzhou-city-walk",
+        "content": "再游 苏州",
+        "objectID": "/zh-cn/post/suzhou-city-walk"
+    },
+    {
+        "title": "香港高才通计划",
+        "description": null,
+        "categories": [
+            "zine"
+        ],
+        "tags": [],
+        "date": "2024-11-02T21:52:57.000Z",
+        "cover": null,
+        "hidden": false,
+        "comments": true,
+        "uri": "/zh-cn/post/ttps",
+        "content": "身份证 香港 拿到 永居 临时 续签 补件 高才 办理 成绩单 保险 申请 预约 纳税 中介 提交 社保 签注 父母 中介费 教务处 行街 拿证 官网 优才 生娃 有个 阵子 换证 花点 养人 搞定 非常简单 通行证 完事 护照 出入境 营业执照 缴费 签证 本科 十岁 逗留 往返 太久 工作 符合条件 打印 最强 一般来说 流水 问问 合法 七年 审核 查看 二次 年纪 月初 太大 提示 通道 顺利 仔细 一个月 不住 宣传 银子 工资 不行 年轻 证明 实在 资料 困难 居民 大学 优势 相比 意义 速度 实际上 需求 有人 条件 东西 提供 过程",
+        "objectID": "/zh-cn/post/ttps"
+    },
+    {
+        "title": "无锡 City Walk",
+        "description": null,
+        "categories": [
+            "travel"
+        ],
+        "tags": [
+            "china"
+        ],
+        "date": "2024-05-21T09:37:39.000Z",
+        "cover": null,
+        "hidden": false,
+        "comments": true,
+        "story_id": 103222,
+        "uri": "/zh-cn/post/wuxi-citywalk",
+        "content": "无锡 惠山 古镇 长街 城市 苏州 江浙沪 想住 寄畅园 锡山 满房 华邑 本次 感受一下 一晚 背包 荒地 一个多 新区 火车站 第一天 地铁 时间 航线 早上 酒店 公园 机场 可惜 评价 很难 第二天 当天 打算 总体 晚上 深圳 小时 本来 区域 选择 原因 两个",
+        "objectID": "/zh-cn/post/wuxi-citywalk"
+    },
+    {
+        "title": "Fujifilm X-T5 上手使用体验",
+        "description": "Fujifilm X-T5 上手使用体验",
+        "categories": [
+            "gears"
+        ],
+        "tags": [
+            "fujifilm"
+        ],
+        "date": "2024-01-09T16:01:41.000Z",
+        "image": "https://static.fatesinger.com/2024/01/p6krrw3jrw3hu7nd.jpeg",
+        "hidden": false,
+        "comments": true,
+        "story_id": 101768,
+        "uri": "/zh-cn/post/x-t5",
+        "content": "镜头 机身 富士 S20 残幅 这台 机器 T5 好用 复古 真的 拍照 对焦 更好 搭配 很爽 四千万 AFC 防滴 尼康 像素 功能 快门 防尘 严丝合缝 画幅 闪光灯 选择 太差 紧凑 做工 卖掉 额外 分享 塑料 周边 高像素 样片 保留 十多张 适配 性能 致于 一万多块 有期 没买 XF90 万超 防抖 套机 我见 苦手 上大 拨盘 RAW SD xf35f2 吐槽 有个 H2 zf 滤镜 双卡槽 4000 M43 v60 X100V 弱光 确实 喜欢 感觉 三折 卡壳 开箱 推荐 握持 喂饱 阉割 三千多 压死 摄影师 价格便宜 雨天 非常适合 上手 一万多 处理器 索尼 续航 卖到 按钮 随心所欲 螺纹 王者 心得 小巧 远不如 爱好者 相机 旗舰 降为 普通人 能用 低速 太重 烦躁 手动 下有 花钱 竞争对手 打印 购入 同等 玩具 价位 垃圾 光滑 好几个 精致 开启 本文 锁定 稍微 缺点 尺寸 电池 优点 配备 有时候 绝大部分 参考 手上 麻烦 想要 太太 用户 太大 职业 气氛 一级 足够 皮肤 自动 论坛 设置 国外 不行 讨论 强劲 后期 暂时 那种 配置 风格 实在 电子 相比 只能 告诉 代表 控制 原因 能力 一点 几个 特别 国内 价格 一种 时间",
+        "objectID": "/zh-cn/post/x-t5"
+    },
+    {
+        "title": "Fujifilm X100V 全家桶使用体验",
+        "description": null,
+        "categories": [
+            "gears"
+        ],
+        "tags": [
+            "Fujifilm"
+        ],
+        "date": "2023-10-26T01:44:37.000Z",
+        "image": null,
+        "hidden": false,
+        "comments": true,
+        "uri": "/zh-cn/post/x100v",
+        "content": "镜头 X100V 相机 UV 遮光罩 转接 官方 配件 富士 转换 加装 质感 广角 原装 皮套 长焦 Q2 焦段 X100 mm 购入 十二 电池 真的 到手 生畏 画质 II 三防 颜值 23 望价 2000 望远 全家 发货 双十 自带 手机 拍照 样子 喜欢 两样 机身 损耗 一枚 不到 售价 型号 造型 要说 勉强 原机 样片 组合 无感 裸机 不错 金属 八百多 M10R F2 就长 49 M43 Sketch 128 550 MM 爆表 天猫 PS Pro 可玩度 吐槽 看徕 真坑 35 家买 堪比 违和感 SD 商买 A7C TCL 20 个徕 太坑 WCL 之眼 70 这枚 64 13 镜要 iPhone Larry 420 我用 富家子弟 激发起 开箱 难用 快门 加个 物有所值 终于 爱不释手 奸商 很贵 接受 连接处 裁剪 不怎么样 套装 等效 算下来 机内 京东 把玩 建了 很久没 大法 算上 按钮 无敌 胜出 俯视 机头 饼干 第一篇 无线 充电 换个 美食 两千 价格 美貌 块钱 用过 女朋友 中用 导出 赠送 折扣 淘宝 稳固 发售 人文 专题 昂贵 没用 附加 搭配 多用 顺手 十万 日常生活 三分之一 素质 形容 稍微 缺点 实用 风景 号称 苹果 一脸 室内 口径 一体化 快乐 电脑 授权 心态 订单 犹豫 惊人 漂亮 只不过 感受 出门 兴趣 短期内 随便 可惜 安装 无论是 适合 半个 想法 定价 文章 黑色 取消 算是 远远 一根 食物 角度 想着 等待 一张 两年 实在 购买 本来 多种 提升 一只 看着 一年 重点 三个 环境 程度 眼睛 参加 一点 活动 增加 发现 两个",
+        "objectID": "/zh-cn/post/x100v"
+    },
+    {
+        "uri": "/zh-cn/post/xf18",
+        "content": "光圈 镜头 遮光罩 画质 样片 金属 2023 镜身 富士 方形 参数 广角镜头 对焦 不错 太丑 虚化 XF18mm 00 1.4 焦段 10 categories cover date 暂未 e6zsd2fgagf698b4 400 fatesinger 防抖 23 08 XF56 F1 09 https LM 18 mm T09 static 34 tags gears fujifilm jpg title 25 WR 松垮 价格昂贵 能力 自带 最贵 质感 二代 几张 一斤 先于 博客 入手 做工 军团 上周末 本文 缺点 号称 分享 优点 塑料 照片 拿到 重量 用户 太大 优秀 足够 更大 整理 发挥 暂时 至少 样子 感觉 速度 接受 需求 日本 分析 几个 关系 价格 发现 时间",
+        "objectID": "/zh-cn/post/xf18",
+        "title": "/zh-cn/post/xf18"
+    },
+    {
+        "title": "富士 XF23mm F1.4 R LM WR",
+        "description": "富士 XF23mm F1.4 R LM WR",
+        "categories": [
+            "gears"
+        ],
+        "tags": [
+            "fujifilm"
+        ],
+        "date": "2023-10-26T04:46:11.000Z",
+        "image": null,
+        "hidden": false,
+        "comments": true,
+        "cover": "//static.fatesinger.com/2023/10/34n30fwqhrythqhv.jpg",
+        "uri": "/zh-cn/post/xf23",
+        "content": "镜头 35 焦段 x100v mm 光圈 对焦 日常 富士 人像 拍上 挂机 虚化 1.4 33 23 X100V 拍摄 优惠券 挺不错 环境 京东 美食 价格 机型 相机 几张 本来 物件 推荐 人文 夸张 这支 舒适 现货 火爆 遮光罩 一万张 原素 有货 奥林巴斯 卡口 一支 画质 狗血 xf56 之眼 立发 lenses 18 近摄 社牛 紫边 焦拍 约个 story 微距 那离 三防 tight 可换 共鸣点 定焦 wide 但太远 life equivalent 扫街 闲鱼 xf18 逆光 全开 人物 原厂 二手市场 自提 无货 购买 一家 九折 开箱 有价无市 下单 玩意 勾搭 缺货 半身 选择 很美 等效 中长 特写 得心应手 把玩 太贵 大神 省钱 胜任 景致 卖家 视角 表现 保有 早些 想来想去 另一家 莫名 打折 并不多 乐趣 既能 拖拉机 悲伤 做工 扎实 精通 方形 军团 看似 场景 视频 太高 看一看 折腾 友好 脑子里 起码 一台 起步 浪费 画面 算了 大师 缺点 号称 分享 属性 安静 优点 照片 内心 想想 便宜 想要 出门 优秀 平日 可惜 适合 一级 很难 放弃 两天 取消 记录 包含 常用 平时 像是 不错 金属 估计 一张 配置 两年 朋友 电子 负责 喜欢 不好 大小 相比 一只 比例 只能 商品 期间 告诉 一点 关注 东西 活动 生活",
+        "objectID": "/zh-cn/post/xf23"
+    },
+    {
+        "title": "富士 XF33mm F1.4 R LM WR",
+        "description": null,
+        "categories": [
+            "gears"
+        ],
+        "tags": [
+            "fujifilm"
+        ],
+        "date": "2023-10-25T11:55:59.000Z",
+        "image": null,
+        "hidden": false,
+        "comments": true,
+        "uri": "/zh-cn/post/xf33",
+        "content": "遮光罩 镜头 原厂 光圈 对焦 富士 这支 按钮 刷到 扫街 直桶 23 mm f1 闲鱼 无货 加价 老哥 感觉 搭配 预定 拍摄 舒适 参数 样片 瑕不掩瑜 挺舒服 卡口 方型 强迫症 画质 一刷 机械 环上 35 50 10 镜卖 58 一才 拨片 13 618 XF33mmF1 无防抖 粘灰 XF56 UV 标头 延保 唯卓仕 漆面 33 roadmap xf56 扛不住 发出 阵子 压迫感 喜欢 磕碰 快门 转接 菜品 一气呵成 等效 逛街 压根 双十 全副 全网 马达 自带 买不到 玄学 篇文章 质感 最难 一两年 相机 收下 线性 根本原因 做工 扎实 受不了 方形 莲花 保安 分量 起码 切换 差点 拿起 两周 变形 当成 锁定 缺点 安静 口径 优点 体积 塑料 全新 注册 日常 领先 手上 漂亮 沟通 不算 感受 出门 垂直 满意 优秀 随便 小心 更新 颜色 自动 数字 吃饭 更好 没想到 早就 想着 不错 手机 大陆 模式 类似 这位 至少 商业 本来 真的 简单 相比 介绍 一只 功能 希望 眼睛 机会 控制 水平 北京 两个 一种 时间",
+        "objectID": "/zh-cn/post/xf33"
+    },
+    {
+        "uri": "/zh-cn/post/xf56",
+        "content": "镜头 富士 APD 二代 X100V 遮光罩 对焦 全新 原厂 光圈 马达 线性 XF50 F1 140 mm 拍摄 感觉 真的 老一代 选择 没上 相机 确实 购入 售价 体积 重量 价格 合适 样片 九千多 不错 参考点 画质 晚上 焦段 T18 滤镜 噪点 4199 UV 10 00 XC 全幅 身要 短上 XF50F1 进光量 但镜 59 WR 对人 XF56mm 小炮 67 categories 没抱 date 07 2023 我能 08 fujifilm gears 夜拍 5000 25 但用 tags title ISO 56 望远 二手市场 很快 肯定 一只 没用过 不太会 声音 头重脚轻 像头 减少 转接 释然 第一 两斤 压力 中长 神往 纠结 舒坦 一万多 索尼 自带 不算什么 二手 太差 脸皮 玄学 最贵 成色 体积小 拍照 买不起 吃力 一放 发现 买到 好评 坚挺 拉高 好久 适中 不带 机身 早点 一万 这张 抚摸 视频 说实话 几只 惊喜 一台 还好 拿起 一圈 稍微 新一代 不好意思 不太 举起 口径 塑料 承受 一代 以内 预算 不小 环节 牺牲 参数 感受 庞大 全是 用户 可惜 概率 足够 系列 详细 外面 没想到 剩下 幅度 网上 有限 暂时 金属 一张 效果 飞机 配置 快速 本来 相比 提升 速度 介绍 接受 希望 较大 预计 原因 能力 几个 研究",
+        "objectID": "/zh-cn/post/xf56",
+        "title": "/zh-cn/post/xf56"
+    },
+    {
+        "title": "富士 XF 90mm f/2 R LM WR",
+        "description": null,
+        "categories": [
+            "gears"
+        ],
+        "tags": [
+            "fujifilm"
+        ],
+        "date": "2023-10-24T06:22:38.000Z",
+        "cover": "//static.fatesinger.com/2018/11/lh9i6r9eehp1edsh.jpg",
+        "hidden": false,
+        "comments": true,
+        "uri": "/zh-cn/post/xf90",
+        "content": "lens mm XF size The aperture shooting weight It price filter length expensive low hood image light 90 reduces However 62 56 This focal long generation considered autofocus 135 attached fast equivalent capture misfocusing due good rings filters control doesn open quality appears high Even stabilization compared conditions cost aggressive body time wide lenses lineup longer making large bumped camera Linear claimed medium made challenging maximum Although minor Motor comfortable moving ND niche occasional offers official older original 4000 At Overall costs overly particle day photographers pleased Pros decision positive practical difficult probability purchased Comfortable Sample domestic rarely reason received regular There ended reputable reviews equipped risk satisfied 1.2. scratched Despite UV eventually sensor sharpest excellent simply sized When small smaller bring smooth ISO fastest startup After suitable Excellent summary system cat main Its market channels means 18 mentioned combined movements things As finding thread offer One traveling updates focus videos outdoors 100 paired damping performs Perhaps photos decided popularity Before pound defect Quad weighs allowing foreign range 50 rate drawbacks 140. 70 Filters frustrating refurbished dust release Cons result environments room appearance great set everyday Fuji hand handheld Using exceptionally handling Fujifilm attaching highly starting With success ideal images telephoto find acceptable Good bit including tolerable Fast focusing increase increased 1.2 1.4 1600 Additionally indoor brands initially",
+        "objectID": "/zh-cn/post/xf90"
+    },
+    {
+        "title": "西安 City Walk",
+        "description": null,
+        "categories": [
+            "travel"
+        ],
+        "tags": [
+            "china"
+        ],
+        "date": "2024-08-01T13:27:39.000Z",
+        "cover": null,
+        "hidden": false,
+        "comments": true,
+        "uri": "/zh-cn/post/xian",
+        "content": "西安 地方 地图 算是 故地重游 重拍 西北 劝退 硬盘 兵马俑 点亮 荒芜 错觉 丢失 西北地区 用心 弥补 体验 照片 人为 感受 打算 距离 东部 实在 本来 确实 不好 原因 一点 中心",
+        "objectID": "/zh-cn/post/xian"
+    },
+    {
+        "title": "梧桐区 City Walk",
+        "description": null,
+        "categories": [
+            "travel"
+        ],
+        "tags": [
+            "china"
+        ],
+        "date": "2024-09-18T13:59:43.000Z",
+        "cover": null,
+        "hidden": false,
+        "comments": true,
+        "uri": "/zh-cn/post/xuhui-citywalk",
+        "content": "外滩 逛一逛 徐汇 外地人 瑞金 洲际 转悠 上海 转机 靠着 景观 新加坡 出门 本次 喜欢 选择",
+        "objectID": "/zh-cn/post/xuhui-citywalk"
+    },
+    {
+        "title": "郑州 City Walk",
+        "description": null,
+        "categories": [
+            "travel"
+        ],
+        "tags": [],
+        "date": "2024-05-28T10:50:16.000Z",
+        "hidden": false,
+        "comments": true,
+        "uri": "/zh-cn/post/zhengzhou-city-walk",
+        "content": "郑州 玉米 不错 新晋 博物院 入住 如意 短暂 酒店 群魔乱舞 课本上 晚上 CBD 酒廊 网红 确都 那放 炸串 湖走 太堵 City Walk 逛一逛 周边城市 咖啡店 挺不错 待过 地标 河南 小吃店 太行 貌似 洲际 中转 丹尼斯 人少 直播 远不如 价格 郑东新 少林寺 二七 餐厅 正经 堪称 顺便 看一看 一圈 楼上 体验 周边 广场 心头 博物馆 差距 没什么 房间 算是 知识 旅游 洛阳 行政 几天 确实 感觉 真的 简单 多年 推荐 资源 服务 只能 面积 选择 很大 东西 地方 两个 经济 公司",
+        "objectID": "/zh-cn/post/zhengzhou-city-walk"
+    }
+]
