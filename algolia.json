@@ -410,7 +410,7 @@
         "weight": 1,
         "story_id": 101971,
         "uri": "/zh-cn/post/hugo-theme-farallon",
-        "content": "https title content travel md index Params memo 站点 设置 Gear story cn cat static png brand 2023 fatesinger zh cover bigfa 参数 目录 新建 简体中文 movie layout 10 FX1CAS2SD8 00 mainSections FujiFilm subject DefaultContentLanguage hugo algolia true description douban 06 en 35451890 ALGOLIAWRITEKEY gears faves adminKey 即可 卡片 页面 文件 配置 类型 格式 旅行 创建 文章 参数设置 分类 默认值 直接插入 编辑 配置文件 algolia2 authorDescription 40 apikey i18n indexName 04 appid input instax authorAvatar loser Hugo main authorName markdown avatar b0825b184f45c084e31770fbcc9261f2 secrets mini mm 128 pc5qctiddj2uy6g post 0.3.1 search searchAPPID Gears meta secure 05 showAuthor computer 2021 subtitle tlp9i57mnbamhapp token Leica date 2022 v1 workflow yaml draft Search Sofort false caibingcheng 使用指南 1. T15 值为 fd7e2e17a671f8e3fade0706e0a667e fmdvfzy5kwu320q 内链 searchKey X100V fuji 11 03 gear categories 39 github gravatar 字段 模版 换为 豆瓣 取掉 文件夹 古法 够用 条目 方法 小站 演示 保持一致 别名 试用 默认 列表 链接 三方 字符串 字符 语音 数组 多余 地址 英文 版本 提交 翻译 搜索 体验 物品 暴露 框架 代码 免费 日期 一行 依赖 自行 单独 想要 额度 描述 更新 制作 自动 相当于 主题 维护 语言 作者 状态 推荐 信息 选择 支持 项目 数据",
+        "content": "https content title index travel md Params memo 站点 设置 png brand bigfa cn story Gear fatesinger static cover zh cat 参数 目录 新建 简体中文 hugo 00 DefaultContentLanguage mainSections algolia FujiFilm gears layout 35451890 description FX1CAS2SD8 subject true douban movie en 06 ALGOLIAWRITEKEY adminKey 2023 faves 即可 卡片 页面 文件 配置 类型 格式 旅行 创建 文章 参数设置 分类 直接插入 默认值 编辑 配置文件 github 39 gravatar indexName 13 i18n algolia2 apikey 04 input instax 03 10 loser 1. authorAvatar main authorDescription markdown authorName meta avatar mini mm 128 b0825b184f45c084e31770fbcc9261f2 pc5qctiddj2uy6g post search searchAPPID searchKey caibingcheng secrets secure showAuthor categories computer subtitle Gears tlp9i57mnbamhapp token v1 2021 Hugo date workflow yaml Leica draft 05 2022 使用指南 false Search Sofort 值为 0.4.9 fd7e2e17a671f8e3fade0706e0a667e 内链 2025 fmdvfzy5kwu320q T15 fuji appid 40 02 X100V gear 字段 模版 换为 豆瓣 取掉 文件夹 古法 够用 条目 方法 小站 演示 保持一致 别名 试用 默认 列表 链接 三方 字符串 字符 语音 数组 多余 地址 英文 版本 提交 翻译 搜索 体验 物品 暴露 框架 代码 免费 日期 一行 依赖 自行 单独 想要 额度 描述 更新 制作 自动 相当于 主题 维护 语言 作者 状态 推荐 信息 选择 支持 项目 数据",
         "objectID": "/zh-cn/post/hugo-theme-farallon"
     },
     {
@@ -427,24 +427,8 @@
         "hidden": false,
         "comments": true,
         "uri": "/zh-cn/post/hugo-theme-hera",
-        "content": "https title content travel index memo Params md 站点 设置 story Gear cn png cat brand zh bigfa cover fatesinger static 参数 目录 新建 简体中文 06 hugo 03 algolia adminKey FX1CAS2SD8 mainSections DefaultContentLanguage en subject layout description 35451890 douban 2023 movie faves gears FujiFilm true 00 ALGOLIAWRITEKEY 即可 卡片 页面 文件 配置 类型 格式 旅行 创建 文章 参数设置 分类 直接插入 默认值 编辑 配置文件 gravatar input 39 i18n algolia2 1. apikey indexName 40 appid instax authorAvatar 10 loser 0.0.2 main authorDescription markdown 2021 authorName avatar meta mini b0825b184f45c084e31770fbcc9261f2 mm 128 pc5qctiddj2uy6g categories post caibingcheng search searchAPPID searchKey secure secrets showAuthor Gears computer subtitle tlp9i57mnbamhapp Hugo token date v1 2022 Leica workflow yaml 05 draft false Search 使用指南 2025 Sofort 值为 fd7e2e17a671f8e3fade0706e0a667e T15 内链 fmdvfzy5kwu320q 01 fuji 04 gear X100V github 字段 模版 换为 豆瓣 取掉 文件夹 古法 够用 条目 方法 小站 演示 保持一致 别名 试用 默认 列表 链接 三方 字符串 字符 语音 数组 多余 地址 英文 版本 提交 翻译 搜索 体验 物品 暴露 框架 代码 免费 日期 一行 依赖 自行 单独 想要 额度 描述 更新 制作 自动 相当于 主题 维护 语言 作者 状态 推荐 信息 选择 支持 项目 数据",
+        "content": "https content title index travel md Params memo 站点 设置 png brand bigfa cn story Gear fatesinger static cover zh cat 参数 目录 新建 简体中文 hugo 00 DefaultContentLanguage mainSections algolia FujiFilm gears layout 35451890 description FX1CAS2SD8 subject true douban movie en 06 ALGOLIAWRITEKEY adminKey 2023 faves 即可 卡片 页面 文件 配置 类型 格式 旅行 创建 文章 参数设置 分类 直接插入 默认值 编辑 配置文件 github 39 gravatar indexName 13 i18n algolia2 apikey 04 input instax 03 10 loser 1. authorAvatar main authorDescription markdown authorName meta avatar mini mm 128 b0825b184f45c084e31770fbcc9261f2 pc5qctiddj2uy6g post search searchAPPID searchKey caibingcheng secrets secure showAuthor categories computer subtitle Gears tlp9i57mnbamhapp token v1 2021 Hugo date workflow yaml Leica draft 05 2022 使用指南 false Search Sofort 值为 0.0.10 fd7e2e17a671f8e3fade0706e0a667e 内链 2025 fmdvfzy5kwu320q T15 fuji appid 40 02 X100V gear 字段 模版 换为 豆瓣 取掉 文件夹 古法 够用 条目 方法 小站 演示 保持一致 别名 试用 默认 列表 链接 三方 字符串 字符 语音 数组 多余 地址 英文 版本 提交 翻译 搜索 体验 物品 暴露 框架 代码 免费 日期 一行 依赖 自行 单独 想要 额度 描述 更新 制作 自动 相当于 主题 维护 语言 作者 状态 推荐 信息 选择 支持 项目 数据",
         "objectID": "/zh-cn/post/hugo-theme-hera"
-    },
-    {
-        "title": "Hugo 主题 Notability",
-        "description": "Hugo 主题 Notability",
-        "categories": [
-            "hugo"
-        ],
-        "tags": [],
-        "date": "2023-10-30T14:27:17.000Z",
-        "cover": "https://static.fatesinger.com/2023/09/czukqwphyybsxjhx.jpg",
-        "hidden": false,
-        "comments": true,
-        "story_id": 74850,
-        "uri": "/zh-cn/post/hugo-theme-notability",
-        "content": "https title memo 站点 Params 2023 static Gear brand content fatesinger cover png md cat 参数 简体中文 设置 cn FujiFilm movie DefaultContentLanguage 35451890 faves 00 mainSections story douban zh en gears 06 subject 目录 类型 格式 地址 即可 文章 参数设置 默认值 直接插入 配置文件 主题 文件 抽时间 配置 mm computer 39 post secure authorDescription 11 showAuthor subtitle date true 04 description pc5qctiddj2uy6g 05 draft 使用指南 false Gears 内链 20. Leica 2022 fd7e2e17a671f8e3fade0706e0a667e 1. fmdvfzy5kwu320q tlp9i57mnbamhapp fuji Sofort gear 128 T15 2021 gravatar 0.3.0 X100V hugo i18n index instax loser authorName authorAvatar 40 markdown 03 avatar 10 bigfa meta mini 字段 豆瓣 换为 取掉 文件夹 古法 条目 卡片 演示 别名 试用 远古 复活 默认 列表 链接 三方 字符串 字符 语音 简洁 数组 多余 英文 版本 翻译 物品 框架 代码 新建 一行 依赖 创建 自行 单独 描述 更新 制作 相当于 维护 语言 最新 作者 状态 信息 选择 支持 方法 项目 数据 时间",
-        "objectID": "/zh-cn/post/hugo-theme-notability"
     },
     {
         "title": "Hugo 主题 Puma",
@@ -460,7 +444,7 @@
         "hidden": false,
         "comments": true,
         "uri": "/zh-cn/post/hugo-theme-puma",
-        "content": "https title Params content memo 站点 png cat md brand story index fatesinger bigfa zh Gear cover cn static 参数 设置 简体中文 adminKey algolia 35451890 faves hugo 00 mainSections FX1CAS2SD8 subject douban movie en 2023 10 DefaultContentLanguage ALGOLIAWRITEKEY FujiFilm 06 true gears 目录 配置 类型 格式 新建 创建 即可 文章 参数设置 默认值 直接插入 配置文件 文件 algolia2 i18n 39 apikey 40 instax loser indexName 03 authorAvatar main markdown authorDescription meta 04 avatar mini mm authorName b0825b184f45c084e31770fbcc9261f2 searchAPPID pc5qctiddj2uy6g post search 1. 128 searchKey secrets secure 2021 showAuthor computer subtitle appid Gears tlp9i57mnbamhapp token v1 Hugo date workflow description yaml 2022 Leica draft 02 05 caibingcheng 使用指南 false Search 值为 Sofort 内链 0.0.6 fd7e2e17a671f8e3fade0706e0a667e T15 fmdvfzy5kwu320q input fuji 2025 gear X100V github gravatar 字段 换为 豆瓣 取掉 文件夹 古法 够用 条目 卡片 小站 演示 保持一致 别名 试用 默认 列表 链接 三方 字符串 字符 语音 数组 多余 地址 英文 版本 提交 翻译 搜索 物品 暴露 框架 代码 免费 日期 一行 依赖 自行 单独 额度 描述 更新 制作 自动 相当于 编辑 主题 维护 语言 作者 状态 推荐 信息 选择 支持 方法 项目 数据",
+        "content": "https content title Params memo 站点 Gear cat png zh md static cover cn brand fatesinger index story bigfa 参数 设置 简体中文 algolia gears adminKey mainSections hugo 35451890 DefaultContentLanguage 00 FujiFilm subject true movie ALGOLIAWRITEKEY FX1CAS2SD8 douban en 2023 faves 06 目录 配置 类型 格式 新建 创建 即可 文章 参数设置 默认值 直接插入 配置文件 文件 gravatar i18n indexName input instax 40 10 markdown 1. 39 authorDescription meta authorName mini loser main authorAvatar 13 avatar mm 04 b0825b184f45c084e31770fbcc9261f2 pc5qctiddj2uy6g post search algolia2 searchAPPID apikey 0.0.7 searchKey secrets secure appid showAuthor computer subtitle tlp9i57mnbamhapp token Gears v1 workflow date yaml 2021 Hugo description 05 Leica 02 draft 03 2022 使用指南 caibingcheng false Search 值为 128 内链 fd7e2e17a671f8e3fade0706e0a667e fmdvfzy5kwu320q Sofort T15 fuji gear github 2025 X100V 字段 换为 豆瓣 取掉 文件夹 古法 够用 条目 卡片 小站 演示 保持一致 别名 试用 默认 列表 链接 三方 字符串 字符 语音 数组 多余 地址 英文 版本 提交 翻译 搜索 物品 暴露 框架 代码 免费 日期 一行 依赖 自行 单独 额度 描述 更新 制作 自动 相当于 编辑 主题 维护 语言 作者 状态 推荐 信息 选择 支持 方法 项目 数据",
         "objectID": "/zh-cn/post/hugo-theme-puma"
     },
     {
